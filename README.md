@@ -54,3 +54,9 @@ input_video_dir = 'input_videos_2' # 存储了 15 个相同的视频
 `'different_rate_and_same_video.png'` 中，前方模块速率增大对后方影响不明显的原因可能是队列阻塞，后方速率达到最大值
 
 处理队列阻塞主要发生在 `Model_1`，直接增多数量会造成 cuda 内存不足，考虑调整各模块的数量比与发送视频的速率
+
+## TODO
+
+https://docs.google.com/document/d/1k5tdfGuee2LG1SaTbJquiBSFPzBe-lZRR35xsc4h-3Y/edit
+
+"Virtual Personal Assistant (VPA)" in "A1 for five DNN models"
