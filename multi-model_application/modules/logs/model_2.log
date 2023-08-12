@@ -1,0 +1,1257 @@
+2023-08-12 17:23:51,430 - INFO - [Model_2_1] start
+2023-08-12 17:23:53,222 - INFO - [Model_2_3] start
+2023-08-12 17:23:53,339 - INFO - [Model_2_2] start
+2023-08-12 17:23:57,933 - INFO - [Model_2_2] frame_filename: output_frames_video_2/frame_1.jpg, and car_frames_list: 0
+2023-08-12 17:23:58,042 - INFO - [Model_2_1] frame_filename: output_frames_video_2/frame_2.jpg, and car_frames_list: 0
+2023-08-12 17:23:58,150 - INFO - [Model_2_1] rate: 4.176
+2023-08-12 17:23:58,174 - INFO - [Model_2_3] frame_filename: output_frames_video_2/frame_3.jpg, and car_frames_list: 0
+2023-08-12 17:23:58,304 - INFO - [Model_2_1] rate: 5.757
+2023-08-12 17:23:58,919 - INFO - [Model_2_1] rate: 3.683
+2023-08-12 17:23:59,007 - INFO - [Model_2_1] rate: 6.705
+2023-08-12 17:23:59,093 - INFO - [Model_2_1] rate: 8.531
+2023-08-12 17:23:59,383 - INFO - [Model_2_1] rate: 7.301
+2023-08-12 17:23:59,415 - INFO - [Model_2_1] rate: 14.189
+2023-08-12 17:23:59,539 - INFO - [Model_2_1] rate: 13.307
+2023-08-12 17:23:59,687 - INFO - [Model_2_1] rate: 11.339
+2023-08-12 17:23:59,722 - INFO - [Model_2_1] rate: 15.417
+2023-08-12 17:23:59,825 - INFO - [Model_2_1] rate: 13.951
+2023-08-12 17:23:59,921 - INFO - [Model_2_1] rate: 12.324
+2023-08-12 17:23:59,957 - INFO - [Model_2_1] rate: 18.479
+2023-08-12 17:24:00,092 - INFO - [Model_2_1] rate: 15.602
+2023-08-12 17:24:00,246 - INFO - [Model_2_1] rate: 12.287
+2023-08-12 17:24:00,521 - INFO - [Model_2_1] rate: 9.196
+2023-08-12 17:24:00,667 - INFO - [Model_2_1] rate: 7.533
+2023-08-12 17:24:01,158 - INFO - [Model_2_1] rate: 4.569
+2023-08-12 17:24:01,294 - INFO - [Model_2_1] rate: 5.207
+2023-08-12 17:24:01,570 - INFO - [Model_2_1] rate: 4.668
+2023-08-12 17:24:01,705 - INFO - [Model_2_1] rate: 5.614
+2023-08-12 17:24:01,827 - INFO - [Model_2_1] rate: 6.511
+2023-08-12 17:24:01,846 - INFO - [Model_2_1] rate: 19.995
+2023-08-12 17:24:01,967 - INFO - [Model_2_1] rate: 17.992
+2023-08-12 17:24:02,114 - INFO - [Model_2_1] rate: 15.351
+2023-08-12 17:24:02,586 - INFO - [Model_2_1] rate: 10.921
+2023-08-12 17:24:03,042 - INFO - [Model_2_1] rate: 6.883
+2023-08-12 17:24:03,187 - INFO - [Model_2_2] frame_filename: output_frames_video_2/frame_20.jpg, and car_frames_list: 10
+2023-08-12 17:24:03,268 - INFO - [Model_2_1] frame_filename: output_frames_video_2/frame_24.jpg, and car_frames_list: 9
+2023-08-12 17:24:03,423 - INFO - [Model_2_3] frame_filename: output_frames_video_2/frame_25.jpg, and car_frames_list: 8
+2023-08-12 17:24:09,389 - INFO - [Model_2_1] rate: 2.548
+2023-08-12 17:24:09,393 - INFO - [Model_2_3] frame_filename: output_frames_video_1/frame_218.jpg, and car_frames_list: 0
+2023-08-12 17:24:11,518 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 1, and last_car_frame: output_frames_video_1/frame_218.jpg
+2023-08-12 17:24:11,518 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 1, and last_car_frame: output_frames_video_1/frame_218.jpg
+2023-08-12 17:24:11,519 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 1, and last_car_frame: output_frames_video_1/frame_218.jpg
+2023-08-12 17:24:11,519 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 1, and last_car_frame: output_frames_video_1/frame_218.jpg
+2023-08-12 17:24:11,520 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 1, and last_car_frame: output_frames_video_1/frame_218.jpg
+2023-08-12 17:24:11,520 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 1, and last_car_frame: output_frames_video_1/frame_218.jpg
+2023-08-12 17:24:11,520 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 1, and last_car_frame: output_frames_video_1/frame_218.jpg
+2023-08-12 17:24:11,521 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 1, and last_car_frame: output_frames_video_1/frame_218.jpg
+2023-08-12 17:24:11,521 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 1, and last_car_frame: output_frames_video_1/frame_218.jpg
+2023-08-12 17:24:11,522 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 1, and last_car_frame: output_frames_video_1/frame_218.jpg
+2023-08-12 17:24:11,637 - INFO - [Model_2_1] rate: 1.374
+2023-08-12 17:24:11,645 - INFO - [Model_2_1] frame_filename: output_frames_video_3/frame_1.jpg, and car_frames_list: 0
+2023-08-12 17:24:11,714 - INFO - [Model_2_1] rate: 4.874
+2023-08-12 17:24:11,801 - INFO - [Model_2_1] rate: 7.544
+2023-08-12 17:24:11,807 - INFO - [Model_2_2] frame_filename: output_frames_video_3/frame_3.jpg, and car_frames_list: 0
+2023-08-12 17:24:12,008 - INFO - [Model_2_1] rate: 7.346
+2023-08-12 17:24:12,101 - INFO - [Model_2_1] rate: 8.932
+2023-08-12 17:24:12,204 - INFO - [Model_2_1] rate: 9.453
+2023-08-12 17:24:12,314 - INFO - [Model_2_1] rate: 9.214
+2023-08-12 17:24:12,398 - INFO - [Model_2_1] rate: 10.012
+2023-08-12 17:24:12,488 - INFO - [Model_2_1] rate: 10.685
+2023-08-12 17:24:12,573 - INFO - [Model_2_1] rate: 11.115
+2023-08-12 17:24:12,670 - INFO - [Model_2_1] rate: 11.002
+2023-08-12 17:24:12,846 - INFO - [Model_2_1] rate: 9.273
+2023-08-12 17:24:12,927 - INFO - [Model_2_1] rate: 9.984
+2023-08-12 17:24:13,180 - INFO - [Model_2_1] rate: 7.893
+2023-08-12 17:24:13,478 - INFO - [Model_2_1] rate: 6.068
+2023-08-12 17:24:14,737 - INFO - [Model_2_1] rate: 3.961
+2023-08-12 17:24:14,825 - INFO - [Model_2_1] rate: 6.051
+2023-08-12 17:24:14,835 - INFO - [Model_2_3] frame_filename: output_frames_video_3/frame_39.jpg, and car_frames_list: 0
+2023-08-12 17:24:14,906 - INFO - [Model_2_1] rate: 8.028
+2023-08-12 17:24:15,000 - INFO - [Model_2_1] rate: 9.447
+2023-08-12 17:24:15,081 - INFO - [Model_2_1] rate: 11.093
+2023-08-12 17:24:15,165 - INFO - [Model_2_1] rate: 11.795
+2023-08-12 17:24:15,276 - INFO - [Model_2_1] rate: 10.87
+2023-08-12 17:24:15,397 - INFO - [Model_2_1] rate: 9.876
+2023-08-12 17:24:15,497 - INFO - [Model_2_1] rate: 9.786
+2023-08-12 17:24:15,594 - INFO - [Model_2_1] rate: 9.766
+2023-08-12 17:24:15,702 - INFO - [Model_2_1] rate: 9.564
+2023-08-12 17:24:15,889 - INFO - [Model_2_1] rate: 8.203
+2023-08-12 17:24:16,052 - INFO - [Model_2_1] rate: 7.388
+2023-08-12 17:24:16,147 - INFO - [Model_2_1] rate: 8.091
+2023-08-12 17:24:16,226 - INFO - [Model_2_1] rate: 9.541
+2023-08-12 17:24:16,542 - INFO - [Model_2_1] rate: 7.681
+2023-08-12 17:24:16,628 - INFO - [Model_2_1] rate: 8.989
+2023-08-12 17:24:16,713 - INFO - [Model_2_1] rate: 9.988
+2023-08-12 17:24:16,927 - INFO - [Model_2_1] rate: 8.255
+2023-08-12 17:24:16,937 - INFO - [Model_2_1] frame_filename: output_frames_video_3/frame_62.jpg, and car_frames_list: 0
+2023-08-12 17:24:17,004 - INFO - [Model_2_1] rate: 9.691
+2023-08-12 17:24:17,095 - INFO - [Model_2_1] rate: 10.485
+2023-08-12 17:24:17,104 - INFO - [Model_2_2] frame_filename: output_frames_video_3/frame_64.jpg, and car_frames_list: 0
+2023-08-12 17:24:17,183 - INFO - [Model_2_1] rate: 10.711
+2023-08-12 17:24:17,275 - INFO - [Model_2_1] rate: 10.841
+2023-08-12 17:24:17,364 - INFO - [Model_2_1] rate: 11.233
+2023-08-12 17:24:17,574 - INFO - [Model_2_1] rate: 8.992
+2023-08-12 17:24:17,681 - INFO - [Model_2_1] rate: 8.826
+2023-08-12 17:24:17,773 - INFO - [Model_2_1] rate: 9.318
+2023-08-12 17:24:17,968 - INFO - [Model_2_1] rate: 7.873
+2023-08-12 17:24:18,041 - INFO - [Model_2_1] rate: 9.75
+2023-08-12 17:24:18,119 - INFO - [Model_2_1] rate: 11.026
+2023-08-12 17:24:18,211 - INFO - [Model_2_1] rate: 11.226
+2023-08-12 17:24:18,307 - INFO - [Model_2_1] rate: 11.088
+2023-08-12 17:24:18,404 - INFO - [Model_2_1] rate: 10.993
+2023-08-12 17:24:18,498 - INFO - [Model_2_1] rate: 10.686
+2023-08-12 17:24:18,586 - INFO - [Model_2_1] rate: 10.819
+2023-08-12 17:24:18,713 - INFO - [Model_2_1] rate: 9.877
+2023-08-12 17:24:18,783 - INFO - [Model_2_1] rate: 11.217
+2023-08-12 17:24:18,887 - INFO - [Model_2_1] rate: 10.801
+2023-08-12 17:24:18,991 - INFO - [Model_2_1] rate: 10.421
+2023-08-12 17:24:19,075 - INFO - [Model_2_1] rate: 10.839
+2023-08-12 17:24:19,167 - INFO - [Model_2_1] rate: 10.907
+2023-08-12 17:24:19,267 - INFO - [Model_2_1] rate: 10.517
+2023-08-12 17:24:19,357 - INFO - [Model_2_1] rate: 10.762
+2023-08-12 17:24:19,437 - INFO - [Model_2_1] rate: 11.419
+2023-08-12 17:24:19,518 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,519 - INFO - [Model_2_1] rate: 11.642
+2023-08-12 17:24:19,526 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,527 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,528 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,528 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,529 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,529 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,530 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,531 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,532 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,533 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,533 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,534 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,535 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,536 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,537 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,537 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,538 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,539 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,541 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,542 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,542 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,543 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,543 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,544 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,544 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,545 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,545 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,546 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,546 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,547 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,547 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,548 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,548 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,549 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,549 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,550 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,551 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,552 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 3, and last_car_frame: output_frames_video_3/frame_89.jpg
+2023-08-12 17:24:19,884 - INFO - [Model_2_1] rate: 8.801
+2023-08-12 17:24:20,244 - INFO - [Model_2_1] rate: 6.521
+2023-08-12 17:24:20,404 - INFO - [Model_2_1] rate: 5.7
+2023-08-12 17:24:20,429 - INFO - [Model_2_3] frame_filename: output_frames_video_4/frame_5.jpg, and car_frames_list: 0
+2023-08-12 17:24:20,545 - INFO - [Model_2_1] rate: 5.664
+2023-08-12 17:24:20,692 - INFO - [Model_2_1] rate: 5.945
+2023-08-12 17:24:20,884 - INFO - [Model_2_1] rate: 5.958
+2023-08-12 17:24:21,419 - INFO - [Model_2_1] rate: 4.718
+2023-08-12 17:24:21,544 - INFO - [Model_2_1] rate: 5.757
+2023-08-12 17:24:21,851 - INFO - [Model_2_1] rate: 4.844
+2023-08-12 17:24:21,997 - INFO - [Model_2_1] rate: 5.446
+2023-08-12 17:24:22,154 - INFO - [Model_2_1] rate: 5.821
+2023-08-12 17:24:22,322 - INFO - [Model_2_1] rate: 6.061
+2023-08-12 17:24:22,342 - INFO - [Model_2_1] frame_filename: output_frames_video_4/frame_18.jpg, and car_frames_list: 0
+2023-08-12 17:24:22,459 - INFO - [Model_2_2] frame_filename: output_frames_video_4/frame_19.jpg, and car_frames_list: 0
+2023-08-12 17:24:22,634 - INFO - [Model_2_1] rate: 5.067
+2023-08-12 17:24:23,134 - INFO - [Model_2_1] rate: 4.026
+2023-08-12 17:24:23,269 - INFO - [Model_2_1] rate: 4.956
+2023-08-12 17:24:23,458 - INFO - [Model_2_1] rate: 5.021
+2023-08-12 17:24:24,167 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 2, and last_car_frame: output_frames_video_4/frame_26.jpg
+2023-08-12 17:24:24,168 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 2, and last_car_frame: output_frames_video_4/frame_26.jpg
+2023-08-12 17:24:24,168 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 2, and last_car_frame: output_frames_video_4/frame_26.jpg
+2023-08-12 17:24:24,169 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 2, and last_car_frame: output_frames_video_4/frame_26.jpg
+2023-08-12 17:24:24,170 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 2, and last_car_frame: output_frames_video_4/frame_26.jpg
+2023-08-12 17:24:24,170 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 2, and last_car_frame: output_frames_video_4/frame_26.jpg
+2023-08-12 17:24:24,171 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 2, and last_car_frame: output_frames_video_4/frame_26.jpg
+2023-08-12 17:24:24,205 - INFO - [Model_2_1] rate: 3.855
+2023-08-12 17:24:24,329 - INFO - [Model_2_1] rate: 5.223
+2023-08-12 17:24:24,443 - INFO - [Model_2_1] rate: 6.593
+2023-08-12 17:24:24,574 - INFO - [Model_2_1] rate: 7.001
+2023-08-12 17:24:24,797 - INFO - [Model_2_1] rate: 6.433
+2023-08-12 17:24:25,237 - INFO - [Model_2_1] rate: 5.175
+2023-08-12 17:24:25,508 - INFO - [Model_2_1] rate: 4.359
+2023-08-12 17:24:25,563 - INFO - [Model_2_1] rate: 7.942
+2023-08-12 17:24:25,664 - INFO - [Model_2_1] rate: 9.176
+2023-08-12 17:24:25,692 - INFO - [Model_2_3] frame_filename: output_frames_video_4/frame_44.jpg, and car_frames_list: 1
+2023-08-12 17:24:25,717 - INFO - [Model_2_1] rate: 12.529
+2023-08-12 17:24:25,985 - INFO - [Model_2_1] rate: 10.424
+2023-08-12 17:24:26,040 - INFO - [Model_2_1] rate: 13.205
+2023-08-12 17:24:26,183 - INFO - [Model_2_1] rate: 11.08
+2023-08-12 17:24:26,292 - INFO - [Model_2_1] rate: 10.225
+2023-08-12 17:24:26,329 - INFO - [Model_2_1] rate: 15.915
+2023-08-12 17:24:26,436 - INFO - [Model_2_1] rate: 14.538
+2023-08-12 17:24:26,473 - INFO - [Model_2_1] rate: 18.688
+2023-08-12 17:24:26,552 - INFO - [Model_2_1] rate: 17.729
+2023-08-12 17:24:26,683 - INFO - [Model_2_1] rate: 14.96
+2023-08-12 17:24:26,708 - INFO - [Model_2_1] rate: 16.734
+2023-08-12 17:24:26,829 - INFO - [Model_2_1] rate: 14.06
+2023-08-12 17:24:26,966 - INFO - [Model_2_1] rate: 11.175
+2023-08-12 17:24:27,114 - INFO - [Model_2_1] rate: 9.443
+2023-08-12 17:24:27,239 - INFO - [Model_2_1] rate: 8.607
+2023-08-12 17:24:27,258 - INFO - [Model_2_1] rate: 20.64
+2023-08-12 17:24:27,385 - INFO - [Model_2_1] rate: 18.12
+2023-08-12 17:24:27,418 - INFO - [Model_2_1] rate: 23.357
+2023-08-12 17:24:27,507 - INFO - [Model_2_1] frame_filename: output_frames_video_4/frame_54.jpg, and car_frames_list: 2
+2023-08-12 17:24:27,548 - INFO - [Model_2_1] rate: 19.216
+2023-08-12 17:24:27,608 - INFO - [Model_2_1] rate: 18.387
+2023-08-12 17:24:27,625 - INFO - [Model_2_2] frame_filename: output_frames_video_4/frame_55.jpg, and car_frames_list: 2
+2023-08-12 17:24:27,689 - INFO - [Model_2_1] rate: 14.919
+2023-08-12 17:24:27,862 - INFO - [Model_2_1] rate: 11.798
+2023-08-12 17:24:27,970 - INFO - [Model_2_1] rate: 9.816
+2023-08-12 17:24:28,039 - INFO - [Model_2_1] rate: 11.075
+2023-08-12 17:24:28,114 - INFO - [Model_2_1] rate: 11.749
+2023-08-12 17:24:28,252 - INFO - [Model_2_1] rate: 10.469
+2023-08-12 17:24:28,295 - INFO - [Model_2_1] rate: 15.12
+2023-08-12 17:24:28,422 - INFO - [Model_2_1] rate: 13.161
+2023-08-12 17:24:28,564 - INFO - [Model_2_1] rate: 11.061
+2023-08-12 17:24:28,690 - INFO - [Model_2_1] rate: 9.81
+2023-08-12 17:24:28,760 - INFO - [Model_2_1] rate: 11.02
+2023-08-12 17:24:28,855 - INFO - [Model_2_1] rate: 10.319
+2023-08-12 17:24:29,050 - INFO - [Model_2_1] rate: 8.867
+2023-08-12 17:24:29,222 - INFO - [Model_2_1] rate: 7.865
+2023-08-12 17:24:29,364 - INFO - [Model_2_1] rate: 7.208
+2023-08-12 17:24:29,407 - INFO - [Model_2_1] rate: 16.131
+2023-08-12 17:24:29,510 - INFO - [Model_2_1] rate: 14.886
+2023-08-12 17:24:29,583 - INFO - [Model_2_1] rate: 15.175
+2023-08-12 17:24:29,667 - INFO - [Model_2_1] rate: 14.346
+2023-08-12 17:24:29,811 - INFO - [Model_2_1] rate: 11.627
+2023-08-12 17:24:29,981 - INFO - [Model_2_1] rate: 8.541
+2023-08-12 17:24:30,130 - INFO - [Model_2_1] rate: 7.585
+2023-08-12 17:24:30,176 - INFO - [Model_2_1] rate: 12.152
+2023-08-12 17:24:30,303 - INFO - [Model_2_1] rate: 11.191
+2023-08-12 17:24:30,468 - INFO - [Model_2_1] rate: 9.876
+2023-08-12 17:24:30,644 - INFO - [Model_2_1] rate: 8.5
+2023-08-12 17:24:30,811 - INFO - [Model_2_1] rate: 7.358
+2023-08-12 17:24:30,991 - INFO - [Model_2_1] rate: 5.933
+2023-08-12 17:24:31,032 - INFO - [Model_2_3] frame_filename: output_frames_video_5/frame_35.jpg, and car_frames_list: 2
+2023-08-12 17:24:31,143 - INFO - [Model_2_1] rate: 6.021
+2023-08-12 17:24:31,285 - INFO - [Model_2_1] rate: 6.479
+2023-08-12 17:24:31,394 - INFO - [Model_2_1] rate: 7.363
+2023-08-12 17:24:31,489 - INFO - [Model_2_1] rate: 8.647
+2023-08-12 17:24:31,599 - INFO - [Model_2_1] rate: 9.053
+2023-08-12 17:24:31,657 - INFO - [Model_2_1] rate: 12.521
+2023-08-12 17:24:31,830 - INFO - [Model_2_1] rate: 10.706
+2023-08-12 17:24:31,989 - INFO - [Model_2_1] rate: 9.331
+2023-08-12 17:24:32,195 - INFO - [Model_2_1] rate: 7.556
+2023-08-12 17:24:32,392 - INFO - [Model_2_1] rate: 6.276
+2023-08-12 17:24:32,481 - INFO - [Model_2_1] rate: 7.192
+2023-08-12 17:24:32,680 - INFO - [Model_2_1] rate: 6.67
+2023-08-12 17:24:32,697 - INFO - [Model_2_1] frame_filename: output_frames_video_5/frame_47.jpg, and car_frames_list: 1
+2023-08-12 17:24:32,743 - INFO - [Model_2_2] frame_filename: output_frames_video_4/frame_85.jpg, and car_frames_list: 0
+2023-08-12 17:24:32,852 - INFO - [Model_2_1] rate: 6.6
+2023-08-12 17:24:32,914 - INFO - [Model_2_1] rate: 9.663
+2023-08-12 17:24:32,993 - INFO - [Model_2_1] rate: 10.639
+2023-08-12 17:24:33,136 - INFO - [Model_2_1] rate: 9.651
+2023-08-12 17:24:33,218 - INFO - [Model_2_1] rate: 10.96
+2023-08-12 17:24:33,349 - INFO - [Model_2_1] rate: 9.914
+2023-08-12 17:24:33,561 - INFO - [Model_2_1] rate: 7.894
+2023-08-12 17:24:33,710 - INFO - [Model_2_1] rate: 7.102
+2023-08-12 17:24:33,847 - INFO - [Model_2_1] rate: 6.945
+2023-08-12 17:24:33,980 - INFO - [Model_2_1] rate: 6.855
+2023-08-12 17:24:34,145 - INFO - [Model_2_1] rate: 6.676
+2023-08-12 17:24:34,263 - INFO - [Model_2_1] rate: 7.302
+2023-08-12 17:24:34,416 - INFO - [Model_2_1] rate: 7.107
+2023-08-12 17:24:34,527 - INFO - [Model_2_1] rate: 7.805
+2023-08-12 17:24:34,665 - INFO - [Model_2_1] rate: 7.737
+2023-08-12 17:24:34,828 - INFO - [Model_2_1] rate: 7.281
+2023-08-12 17:24:34,987 - INFO - [Model_2_1] rate: 6.818
+2023-08-12 17:24:35,140 - INFO - [Model_2_1] rate: 6.627
+2023-08-12 17:24:35,285 - INFO - [Model_2_1] rate: 6.605
+2023-08-12 17:24:35,422 - INFO - [Model_2_1] rate: 6.825
+2023-08-12 17:24:35,582 - INFO - [Model_2_1] rate: 6.981
+2023-08-12 17:24:35,715 - INFO - [Model_2_1] rate: 6.872
+2023-08-12 17:24:35,973 - INFO - [Model_2_1] rate: 5.903
+2023-08-12 17:24:36,134 - INFO - [Model_2_1] rate: 5.819
+2023-08-12 17:24:36,284 - INFO - [Model_2_1] rate: 5.98
+2023-08-12 17:24:36,361 - INFO - [Model_2_1] rate: 8.395
+2023-08-12 17:24:36,390 - INFO - [Model_2_3] frame_filename: output_frames_video_4/frame_109.jpg, and car_frames_list: 0
+2023-08-12 17:24:36,432 - INFO - [Model_2_1] rate: 10.35
+2023-08-12 17:24:36,537 - INFO - [Model_2_1] rate: 11.035
+2023-08-12 17:24:36,608 - INFO - [Model_2_1] rate: 13.071
+2023-08-12 17:24:36,774 - INFO - [Model_2_1] rate: 10.946
+2023-08-12 17:24:36,913 - INFO - [Model_2_1] rate: 9.304
+2023-08-12 17:24:36,946 - INFO - [Model_2_1] rate: 18.46
+2023-08-12 17:24:37,132 - INFO - [Model_2_1] rate: 15.153
+2023-08-12 17:24:37,253 - INFO - [Model_2_1] rate: 12.914
+2023-08-12 17:24:37,315 - INFO - [Model_2_1] rate: 14.295
+2023-08-12 17:24:37,430 - INFO - [Model_2_1] rate: 12.082
+2023-08-12 17:24:37,478 - INFO - [Model_2_1] rate: 15.087
+2023-08-12 17:24:37,619 - INFO - [Model_2_1] rate: 13.163
+2023-08-12 17:24:37,683 - INFO - [Model_2_1] rate: 14.291
+2023-08-12 17:24:37,712 - INFO - [Model_2_1] frame_filename: output_frames_video_4/frame_114.jpg, and car_frames_list: 4
+2023-08-12 17:24:37,806 - INFO - [Model_2_1] rate: 12.165
+2023-08-12 17:24:37,854 - INFO - [Model_2_1] rate: 15.376
+2023-08-12 17:24:37,956 - INFO - [Model_2_1] rate: 13.311
+2023-08-12 17:24:38,022 - INFO - [Model_2_1] rate: 14.128
+2023-08-12 17:24:38,040 - INFO - [Model_2_2] frame_filename: output_frames_video_5/frame_79.jpg, and car_frames_list: 5
+2023-08-12 17:24:38,156 - INFO - [Model_2_1] rate: 11.874
+2023-08-12 17:24:38,195 - INFO - [Model_2_1] rate: 17.521
+2023-08-12 17:24:38,329 - INFO - [Model_2_1] rate: 14.371
+2023-08-12 17:24:38,378 - INFO - [Model_2_1] rate: 16.585
+2023-08-12 17:24:38,502 - INFO - [Model_2_1] rate: 14.216
+2023-08-12 17:24:38,553 - INFO - [Model_2_1] rate: 15.129
+2023-08-12 17:24:38,692 - INFO - [Model_2_1] rate: 11.91
+2023-08-12 17:24:38,741 - INFO - [Model_2_1] rate: 15.186
+2023-08-12 17:24:38,870 - INFO - [Model_2_1] rate: 12.67
+2023-08-12 17:24:38,933 - INFO - [Model_2_1] rate: 14.261
+2023-08-12 17:24:39,062 - INFO - [Model_2_1] rate: 12.01
+2023-08-12 17:24:39,141 - INFO - [Model_2_1] rate: 12.238
+2023-08-12 17:24:39,243 - INFO - [Model_2_1] rate: 11.091
+2023-08-12 17:24:39,308 - INFO - [Model_2_1] rate: 12.503
+2023-08-12 17:24:39,416 - INFO - [Model_2_1] rate: 11.273
+2023-08-12 17:24:39,541 - INFO - [Model_2_1] rate: 10.425
+2023-08-12 17:24:39,585 - INFO - [Model_2_1] rate: 13.507
+2023-08-12 17:24:39,671 - INFO - [Model_2_1] rate: 13.378
+2023-08-12 17:24:39,842 - INFO - [Model_2_1] rate: 10.982
+2023-08-12 17:24:39,871 - INFO - [Model_2_1] rate: 18.198
+2023-08-12 17:24:40,007 - INFO - [Model_2_1] rate: 15.426
+2023-08-12 17:24:40,094 - INFO - [Model_2_1] rate: 14.129
+2023-08-12 17:24:40,213 - INFO - [Model_2_1] rate: 12.108
+2023-08-12 17:24:40,296 - INFO - [Model_2_1] rate: 11.759
+2023-08-12 17:24:40,356 - INFO - [Model_2_1] rate: 12.337
+2023-08-12 17:24:40,478 - INFO - [Model_2_1] rate: 11.437
+2023-08-12 17:24:40,547 - INFO - [Model_2_1] rate: 12.236
+2023-08-12 17:24:40,695 - INFO - [Model_2_1] rate: 10.57
+2023-08-12 17:24:40,804 - INFO - [Model_2_1] rate: 9.858
+2023-08-12 17:24:40,878 - INFO - [Model_2_1] rate: 11.043
+2023-08-12 17:24:41,050 - INFO - [Model_2_1] rate: 9.411
+2023-08-12 17:24:41,147 - INFO - [Model_2_1] rate: 9.476
+2023-08-12 17:24:41,265 - INFO - [Model_2_1] rate: 9.327
+2023-08-12 17:24:41,322 - INFO - [Model_2_1] rate: 11.323
+2023-08-12 17:24:41,440 - INFO - [Model_2_1] rate: 10.584
+2023-08-12 17:24:41,473 - INFO - [Model_2_3] frame_filename: output_frames_video_5/frame_95.jpg, and car_frames_list: 10
+2023-08-12 17:24:41,500 - INFO - [Model_2_1] rate: 12.898
+2023-08-12 17:24:41,635 - INFO - [Model_2_1] rate: 11.471
+2023-08-12 17:24:41,673 - INFO - [Model_2_1] rate: 14.79
+2023-08-12 17:24:41,820 - INFO - [Model_2_1] rate: 12.435
+2023-08-12 17:24:42,024 - INFO - [Model_2_1] rate: 9.922
+2023-08-12 17:24:42,168 - INFO - [Model_2_1] rate: 8.412
+2023-08-12 17:24:42,362 - INFO - [Model_2_1] rate: 6.974
+2023-08-12 17:24:42,423 - INFO - [Model_2_1] rate: 9.448
+2023-08-12 17:24:42,553 - INFO - [Model_2_1] rate: 9.183
+2023-08-12 17:24:42,719 - INFO - [Model_2_1] rate: 8.422
+2023-08-12 17:24:42,741 - INFO - [Model_2_1] frame_filename: output_frames_video_4/frame_137.jpg, and car_frames_list: 13
+2023-08-12 17:24:42,887 - INFO - [Model_2_1] rate: 7.658
+2023-08-12 17:24:42,908 - INFO - [Model_2_1] rate: 17.911
+2023-08-12 17:24:43,074 - INFO - [Model_2_2] frame_filename: output_frames_video_4/frame_139.jpg, and car_frames_list: 11
+2023-08-12 17:24:43,099 - INFO - [Model_2_1] rate: 14.662
+2023-08-12 17:24:43,306 - INFO - [Model_2_1] rate: 12.036
+2023-08-12 17:24:43,487 - INFO - [Model_2_1] rate: 9.83
+2023-08-12 17:24:43,671 - INFO - [Model_2_1] rate: 7.606
+2023-08-12 17:24:43,714 - INFO - [Model_2_1] rate: 10.291
+2023-08-12 17:24:43,809 - INFO - [Model_2_1] rate: 10.994
+2023-08-12 17:24:43,864 - INFO - [Model_2_1] rate: 15.142
+2023-08-12 17:24:44,022 - INFO - [Model_2_1] rate: 12.952
+2023-08-12 17:24:44,057 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 4, and last_car_frame: output_frames_video_5/frame_115.jpg
+2023-08-12 17:24:44,107 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 4, and last_car_frame: output_frames_video_5/frame_115.jpg
+2023-08-12 17:24:44,120 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 4, and last_car_frame: output_frames_video_5/frame_115.jpg
+2023-08-12 17:24:44,127 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 4, and last_car_frame: output_frames_video_5/frame_115.jpg
+2023-08-12 17:24:44,134 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 4, and last_car_frame: output_frames_video_5/frame_115.jpg
+2023-08-12 17:24:44,142 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 4, and last_car_frame: output_frames_video_5/frame_115.jpg
+2023-08-12 17:24:44,150 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 4, and last_car_frame: output_frames_video_5/frame_115.jpg
+2023-08-12 17:24:44,173 - INFO - [Model_2_1] rate: 10.876
+2023-08-12 17:24:44,329 - INFO - [Model_2_1] rate: 8.678
+2023-08-12 17:24:44,490 - INFO - [Model_2_1] rate: 7.371
+2023-08-12 17:24:44,656 - INFO - [Model_2_1] rate: 6.263
+2023-08-12 17:24:44,816 - INFO - [Model_2_1] rate: 6.191
+2023-08-12 17:24:44,960 - INFO - [Model_2_1] rate: 6.463
+2023-08-12 17:24:45,026 - INFO - [Model_2_1] rate: 8.946
+2023-08-12 17:24:45,089 - INFO - [Model_2_1] rate: 12.237
+2023-08-12 17:24:45,246 - INFO - [Model_2_1] rate: 10.956
+2023-08-12 17:24:45,416 - INFO - [Model_2_1] rate: 9.593
+2023-08-12 17:24:45,587 - INFO - [Model_2_1] rate: 8.078
+2023-08-12 17:24:45,712 - INFO - [Model_2_1] rate: 7.486
+2023-08-12 17:24:45,864 - INFO - [Model_2_1] rate: 6.719
+2023-08-12 17:24:46,058 - INFO - [Model_2_1] rate: 6.23
+2023-08-12 17:24:46,214 - INFO - [Model_2_1] rate: 6.253
+2023-08-12 17:24:46,449 - INFO - [Model_2_1] rate: 5.552
+2023-08-12 17:24:46,640 - INFO - [Model_2_1] rate: 5.266
+2023-08-12 17:24:46,819 - INFO - [Model_2_3] frame_filename: output_frames_video_5/frame_125.jpg, and car_frames_list: 6
+2023-08-12 17:24:46,856 - INFO - [Model_2_1] rate: 4.981
+2023-08-12 17:24:47,043 - INFO - [Model_2_1] rate: 5.052
+2023-08-12 17:24:47,095 - INFO - [Model_2_1] rate: 9.436
+2023-08-12 17:24:47,233 - INFO - [Model_2_1] rate: 9.432
+2023-08-12 17:24:47,333 - INFO - [Model_2_1] rate: 9.832
+2023-08-12 17:24:47,379 - INFO - [Model_2_1] rate: 14.716
+2023-08-12 17:24:47,538 - INFO - [Model_2_1] rate: 12.575
+2023-08-12 17:24:47,680 - INFO - [Model_2_1] rate: 10.48
+2023-08-12 17:24:47,693 - INFO - [Model_2_1] rate: 27.087
+2023-08-12 17:24:47,819 - INFO - [Model_2_1] rate: 22.764
+2023-08-12 17:24:47,967 - INFO - [Model_2_1] frame_filename: output_frames_video_5/frame_134.jpg, and car_frames_list: 6
+2023-08-12 17:24:48,196 - INFO - [Model_2_1] rate: 16.576
+2023-08-12 17:24:48,315 - INFO - [Model_2_2] frame_filename: output_frames_video_5/frame_137.jpg, and car_frames_list: 4
+2023-08-12 17:24:48,458 - INFO - [Model_2_1] rate: 12.181
+2023-08-12 17:24:48,513 - INFO - [Model_2_1] rate: 13.913
+2023-08-12 17:24:48,961 - INFO - [Model_2_1] rate: 8.17
+2023-08-12 17:24:49,582 - INFO - [Model_2_1] rate: 6.132
+2023-08-12 17:24:49,626 - INFO - [Model_2_1] rate: 10.862
+2023-08-12 17:24:49,718 - INFO - [Model_2_1] rate: 11.379
+2023-08-12 17:24:49,875 - INFO - [Model_2_1] rate: 9.661
+2023-08-12 17:24:50,467 - INFO - [Model_2_1] rate: 7.406
+2023-08-12 17:24:50,594 - INFO - [Model_2_1] rate: 7.392
+2023-08-12 17:24:50,894 - INFO - [Model_2_1] rate: 5.27
+2023-08-12 17:24:51,008 - INFO - [Model_2_1] rate: 6.121
+2023-08-12 17:24:51,138 - INFO - [Model_2_1] rate: 6.663
+2023-08-12 17:24:51,465 - INFO - [Model_2_1] rate: 5.733
+2023-08-12 17:24:51,533 - INFO - [Model_2_1] rate: 8.34
+2023-08-12 17:24:51,590 - INFO - [Model_2_1] rate: 12.34
+2023-08-12 17:24:51,738 - INFO - [Model_2_1] rate: 11.27
+2023-08-12 17:24:51,771 - INFO - [Model_2_1] rate: 14.849
+2023-08-12 17:24:51,821 - INFO - [Model_2_3] frame_filename: output_frames_video_6/frame_68.jpg, and car_frames_list: 0
+2023-08-12 17:24:51,912 - INFO - [Model_2_1] rate: 13.008
+2023-08-12 17:24:52,160 - INFO - [Model_2_1] rate: 9.78
+2023-08-12 17:24:52,286 - INFO - [Model_2_1] rate: 8.35
+2023-08-12 17:24:52,442 - INFO - [Model_2_1] rate: 7.32
+2023-08-12 17:24:52,600 - INFO - [Model_2_1] rate: 6.458
+2023-08-12 17:24:52,762 - INFO - [Model_2_1] rate: 6.332
+2023-08-12 17:24:52,852 - INFO - [Model_2_1] rate: 7.761
+2023-08-12 17:24:52,880 - INFO - [Model_2_1] rate: 19.829
+2023-08-12 17:24:52,995 - INFO - [Model_2_1] rate: 17.889
+2023-08-12 17:24:53,289 - INFO - [Model_2_1] rate: 13.982
+2023-08-12 17:24:53,388 - INFO - [Model_2_1] rate: 12.549
+2023-08-12 17:24:53,411 - INFO - [Model_2_2] frame_filename: output_frames_video_5/frame_181.jpg, and car_frames_list: 0
+2023-08-12 17:24:53,498 - INFO - [Model_2_1] rate: 10.484
+2023-08-12 17:24:53,525 - INFO - [Model_2_1] frame_filename: output_frames_video_5/frame_182.jpg, and car_frames_list: 0
+2023-08-12 17:24:53,720 - INFO - [Model_2_1] rate: 6.973
+2023-08-12 17:24:53,930 - INFO - [Model_2_1] rate: 6.152
+2023-08-12 17:24:53,992 - INFO - [Model_2_1] rate: 9.837
+2023-08-12 17:24:54,049 - INFO - [Model_2_1] rate: 12.226
+2023-08-12 17:24:54,130 - INFO - [Model_2_1] rate: 14.287
+2023-08-12 17:24:54,192 - INFO - [Model_2_1] rate: 14.407
+2023-08-12 17:24:54,320 - INFO - [Model_2_1] rate: 12.526
+2023-08-12 17:24:54,522 - INFO - [Model_2_1] rate: 9.537
+2023-08-12 17:24:54,626 - INFO - [Model_2_1] rate: 8.825
+2023-08-12 17:24:54,760 - INFO - [Model_2_1] rate: 7.785
+2023-08-12 17:24:54,813 - INFO - [Model_2_1] rate: 12.186
+2023-08-12 17:24:54,901 - INFO - [Model_2_1] rate: 12.284
+2023-08-12 17:24:54,933 - INFO - [Model_2_1] rate: 24.23
+2023-08-12 17:24:55,050 - INFO - [Model_2_1] rate: 20.565
+2023-08-12 17:24:55,090 - INFO - [Model_2_1] rate: 24.527
+2023-08-12 17:24:55,166 - INFO - [Model_2_1] rate: 20.552
+2023-08-12 17:24:55,298 - INFO - [Model_2_1] rate: 15.949
+2023-08-12 17:24:55,445 - INFO - [Model_2_1] rate: 11.239
+2023-08-12 17:24:55,467 - INFO - [Model_2_1] rate: 24.811
+2023-08-12 17:24:55,554 - INFO - [Model_2_1] rate: 21.171
+2023-08-12 17:24:55,668 - INFO - [Model_2_1] rate: 18.168
+2023-08-12 17:24:55,718 - INFO - [Model_2_1] rate: 18.272
+2023-08-12 17:24:55,828 - INFO - [Model_2_1] rate: 14.74
+2023-08-12 17:24:56,017 - INFO - [Model_2_1] rate: 9.894
+2023-08-12 17:24:56,108 - INFO - [Model_2_1] rate: 9.551
+2023-08-12 17:24:56,160 - INFO - [Model_2_1] rate: 13.129
+2023-08-12 17:24:56,371 - INFO - [Model_2_1] rate: 10.571
+2023-08-12 17:24:56,579 - INFO - [Model_2_1] rate: 8.828
+2023-08-12 17:24:56,619 - INFO - [Model_2_1] rate: 11.474
+2023-08-12 17:24:56,747 - INFO - [Model_2_1] rate: 10.29
+2023-08-12 17:24:56,781 - INFO - [Model_2_1] rate: 15.293
+2023-08-12 17:24:56,900 - INFO - [Model_2_3] frame_filename: output_frames_video_5/frame_199.jpg, and car_frames_list: 6
+2023-08-12 17:24:56,934 - INFO - [Model_2_1] rate: 13.458
+2023-08-12 17:24:57,074 - INFO - [Model_2_1] rate: 11.595
+2023-08-12 17:24:57,106 - INFO - [Model_2_1] rate: 21.32
+2023-08-12 17:24:57,276 - INFO - [Model_2_1] rate: 17.204
+2023-08-12 17:24:57,407 - INFO - [Model_2_1] rate: 13.781
+2023-08-12 17:24:57,460 - INFO - [Model_2_1] rate: 16.337
+2023-08-12 17:24:57,645 - INFO - [Model_2_1] rate: 12.593
+2023-08-12 17:24:57,855 - INFO - [Model_2_1] rate: 8.698
+2023-08-12 17:24:57,878 - INFO - [Model_2_1] rate: 17.629
+2023-08-12 17:24:58,023 - INFO - [Model_2_1] rate: 14.895
+2023-08-12 17:24:58,045 - INFO - [Model_2_1] rate: 31.063
+2023-08-12 17:24:58,168 - INFO - [Model_2_1] rate: 25.897
+2023-08-12 17:24:58,218 - INFO - [Model_2_1] rate: 26.079
+2023-08-12 17:24:58,295 - INFO - [Model_2_1] rate: 20.824
+2023-08-12 17:24:58,409 - INFO - [Model_2_1] rate: 16.338
+2023-08-12 17:24:58,523 - INFO - [Model_2_1] rate: 11.387
+2023-08-12 17:24:58,587 - INFO - [Model_2_2] frame_filename: output_frames_video_5/frame_208.jpg, and car_frames_list: 10
+2023-08-12 17:24:58,601 - INFO - [Model_2_1] rate: 11.706
+2023-08-12 17:24:58,787 - INFO - [Model_2_1] rate: 9.036
+2023-08-12 17:24:58,813 - INFO - [Model_2_1] frame_filename: output_frames_video_6/frame_119.jpg, and car_frames_list: 9
+2023-08-12 17:24:58,906 - INFO - [Model_2_1] rate: 8.53
+2023-08-12 17:24:58,958 - INFO - [Model_2_1] rate: 12.341
+2023-08-12 17:24:58,996 - INFO - [Model_2_1] rate: 16.847
+2023-08-12 17:24:59,109 - INFO - [Model_2_1] rate: 15.001
+2023-08-12 17:24:59,214 - INFO - [Model_2_1] rate: 13.694
+2023-08-12 17:24:59,271 - INFO - [Model_2_1] rate: 15.297
+2023-08-12 17:24:59,428 - INFO - [Model_2_1] rate: 11.915
+2023-08-12 17:24:59,585 - INFO - [Model_2_1] rate: 9.426
+2023-08-12 17:24:59,755 - INFO - [Model_2_1] rate: 8.196
+2023-08-12 17:24:59,949 - INFO - [Model_2_1] rate: 6.814
+2023-08-12 17:25:00,032 - INFO - [Model_2_1] rate: 7.261
+2023-08-12 17:25:00,149 - INFO - [Model_2_1] rate: 7.854
+2023-08-12 17:25:00,315 - INFO - [Model_2_1] rate: 7.418
+2023-08-12 17:25:00,363 - INFO - [Model_2_1] rate: 13.708
+2023-08-12 17:25:00,456 - INFO - [Model_2_1] rate: 13.371
+2023-08-12 17:25:00,559 - INFO - [Model_2_1] rate: 12.794
+2023-08-12 17:25:00,603 - INFO - [Model_2_1] rate: 15.568
+2023-08-12 17:25:00,727 - INFO - [Model_2_1] rate: 13.517
+2023-08-12 17:25:00,833 - INFO - [Model_2_1] rate: 11.239
+2023-08-12 17:25:00,996 - INFO - [Model_2_1] rate: 9.417
+2023-08-12 17:25:01,151 - INFO - [Model_2_1] rate: 7.995
+2023-08-12 17:25:01,184 - INFO - [Model_2_1] rate: 17.369
+2023-08-12 17:25:01,276 - INFO - [Model_2_1] rate: 16.32
+2023-08-12 17:25:01,403 - INFO - [Model_2_1] rate: 14.378
+2023-08-12 17:25:01,438 - INFO - [Model_2_1] rate: 17.652
+2023-08-12 17:25:01,561 - INFO - [Model_2_1] rate: 14.754
+2023-08-12 17:25:01,570 - INFO - [Model_2_1] rate: 26.977
+2023-08-12 17:25:01,687 - INFO - [Model_2_1] rate: 22.837
+2023-08-12 17:25:01,854 - INFO - [Model_2_1] rate: 18.096
+2023-08-12 17:25:01,973 - INFO - [Model_2_3] frame_filename: output_frames_video_6/frame_139.jpg, and car_frames_list: 14
+2023-08-12 17:25:01,997 - INFO - [Model_2_1] rate: 13.43
+2023-08-12 17:25:02,020 - INFO - [Model_2_1] rate: 32.77
+2023-08-12 17:25:02,140 - INFO - [Model_2_1] rate: 25.285
+2023-08-12 17:25:02,242 - INFO - [Model_2_1] rate: 21.882
+2023-08-12 17:25:02,441 - INFO - [Model_2_1] rate: 16.42
+2023-08-12 17:25:02,595 - INFO - [Model_2_1] rate: 11.597
+2023-08-12 17:25:02,701 - INFO - [Model_2_1] rate: 7.925
+2023-08-12 17:25:02,744 - INFO - [Model_2_1] rate: 12.268
+2023-08-12 17:25:02,857 - INFO - [Model_2_1] rate: 11.994
+2023-08-12 17:25:02,899 - INFO - [Model_2_1] rate: 15.5
+2023-08-12 17:25:03,020 - INFO - [Model_2_1] rate: 13.617
+2023-08-12 17:25:03,069 - INFO - [Model_2_1] rate: 16.557
+2023-08-12 17:25:03,158 - INFO - [Model_2_1] rate: 14.714
+2023-08-12 17:25:03,224 - INFO - [Model_2_1] rate: 15.881
+2023-08-12 17:25:03,424 - INFO - [Model_2_1] rate: 12.13
+2023-08-12 17:25:03,568 - INFO - [Model_2_1] rate: 10.085
+2023-08-12 17:25:03,598 - INFO - [Model_2_1] rate: 18.809
+2023-08-12 17:25:03,616 - INFO - [Model_2_2] frame_filename: output_frames_video_6/frame_149.jpg, and car_frames_list: 18
+2023-08-12 17:25:03,727 - INFO - [Model_2_1] rate: 16.025
+2023-08-12 17:25:03,772 - INFO - [Model_2_1] rate: 19.417
+2023-08-12 17:25:03,916 - INFO - [Model_2_1] rate: 16.106
+2023-08-12 17:25:04,005 - INFO - [Model_2_1] rate: 14.383
+2023-08-12 17:25:04,136 - INFO - [Model_2_1] frame_filename: output_frames_video_6/frame_152.jpg, and car_frames_list: 17
+2023-08-12 17:25:04,191 - INFO - [Model_2_1] rate: 10.221
+2023-08-12 17:25:04,227 - INFO - [Model_2_1] rate: 13.553
+2023-08-12 17:25:04,343 - INFO - [Model_2_1] rate: 11.794
+2023-08-12 17:25:04,541 - INFO - [Model_2_1] rate: 9.884
+2023-08-12 17:25:04,683 - INFO - [Model_2_1] rate: 8.716
+2023-08-12 17:25:04,908 - INFO - [Model_2_1] rate: 6.988
+2023-08-12 17:25:05,080 - INFO - [Model_2_1] rate: 5.805
+2023-08-12 17:25:05,264 - INFO - [Model_2_1] rate: 5.515
+2023-08-12 17:25:05,448 - INFO - [Model_2_1] rate: 5.444
+2023-08-12 17:25:05,503 - INFO - [Model_2_1] rate: 10.315
+2023-08-12 17:25:05,550 - INFO - [Model_2_1] rate: 13.774
+2023-08-12 17:25:05,682 - INFO - [Model_2_1] rate: 12.738
+2023-08-12 17:25:05,891 - INFO - [Model_2_1] rate: 10.495
+2023-08-12 17:25:06,016 - INFO - [Model_2_1] rate: 9.282
+2023-08-12 17:25:06,077 - INFO - [Model_2_1] rate: 11.221
+2023-08-12 17:25:06,204 - INFO - [Model_2_1] rate: 9.924
+2023-08-12 17:25:06,338 - INFO - [Model_2_1] rate: 9.492
+2023-08-12 17:25:06,555 - INFO - [Model_2_1] rate: 8.039
+2023-08-12 17:25:06,679 - INFO - [Model_2_1] rate: 7.477
+2023-08-12 17:25:06,744 - INFO - [Model_2_1] rate: 9.994
+2023-08-12 17:25:06,798 - INFO - [Model_2_1] rate: 12.834
+2023-08-12 17:25:06,936 - INFO - [Model_2_1] rate: 11.634
+2023-08-12 17:25:07,073 - INFO - [Model_2_1] rate: 10.517
+2023-08-12 17:25:07,170 - INFO - [Model_2_1] rate: 10.688
+2023-08-12 17:25:07,225 - INFO - [Model_2_3] frame_filename: output_frames_video_5/frame_248.jpg, and car_frames_list: 17
+2023-08-12 17:25:07,233 - INFO - [Model_2_1] rate: 11.133
+2023-08-12 17:25:07,345 - INFO - [Model_2_1] rate: 10.445
+2023-08-12 17:25:07,364 - INFO - [Model_2_1] rate: 21.156
+2023-08-12 17:25:07,497 - INFO - [Model_2_1] rate: 18.186
+2023-08-12 17:25:07,502 - INFO - [Model_2_1] rate: 46.501
+2023-08-12 17:25:07,651 - INFO - [Model_2_1] rate: 37.137
+2023-08-12 17:25:07,735 - INFO - [Model_2_1] rate: 30.231
+2023-08-12 17:25:07,761 - INFO - [Model_2_1] rate: 29.396
+2023-08-12 17:25:07,879 - INFO - [Model_2_1] rate: 21.767
+2023-08-12 17:25:07,924 - INFO - [Model_2_1] rate: 18.204
+2023-08-12 17:25:08,049 - INFO - [Model_2_1] rate: 15.205
+2023-08-12 17:25:08,126 - INFO - [Model_2_1] rate: 14.3
+2023-08-12 17:25:08,158 - INFO - [Model_2_1] rate: 17.824
+2023-08-12 17:25:08,306 - INFO - [Model_2_1] rate: 14.848
+2023-08-12 17:25:08,312 - INFO - [Model_2_1] rate: 41.164
+2023-08-12 17:25:08,478 - INFO - [Model_2_1] rate: 33.209
+2023-08-12 17:25:08,548 - INFO - [Model_2_1] rate: 28.062
+2023-08-12 17:25:08,619 - INFO - [Model_2_1] rate: 22.61
+2023-08-12 17:25:08,686 - INFO - [Model_2_2] frame_filename: output_frames_video_5/frame_255.jpg, and car_frames_list: 21
+2023-08-12 17:25:08,738 - INFO - [Model_2_1] rate: 16.605
+2023-08-12 17:25:08,767 - INFO - [Model_2_1] rate: 17.544
+2023-08-12 17:25:08,871 - INFO - [Model_2_1] rate: 15.713
+2023-08-12 17:25:08,978 - INFO - [Model_2_1] rate: 13.971
+2023-08-12 17:25:09,052 - INFO - [Model_2_1] rate: 13.738
+2023-08-12 17:25:09,098 - INFO - [Model_2_1] rate: 15.624
+2023-08-12 17:25:09,194 - INFO - [Model_2_1] rate: 13.337
+2023-08-12 17:25:09,288 - INFO - [Model_2_1] rate: 13.171
+2023-08-12 17:25:09,376 - INFO - [Model_2_1] rate: 12.197
+2023-08-12 17:25:09,450 - INFO - [Model_2_1] rate: 12.7
+2023-08-12 17:25:09,500 - INFO - [Model_2_1] frame_filename: output_frames_video_6/frame_186.jpg, and car_frames_list: 24
+2023-08-12 17:25:09,517 - INFO - [Model_2_1] rate: 13.334
+2023-08-12 17:25:09,614 - INFO - [Model_2_1] rate: 12.653
+2023-08-12 17:25:09,659 - INFO - [Model_2_1] rate: 14.489
+2023-08-12 17:25:09,770 - INFO - [Model_2_1] rate: 13.123
+2023-08-12 17:25:09,803 - INFO - [Model_2_1] rate: 16.849
+2023-08-12 17:25:09,921 - INFO - [Model_2_1] rate: 15.0
+2023-08-12 17:25:09,930 - INFO - [Model_2_1] rate: 22.952
+2023-08-12 17:25:10,133 - INFO - [Model_2_1] rate: 17.946
+2023-08-12 17:25:10,226 - INFO - [Model_2_1] rate: 15.308
+2023-08-12 17:25:10,266 - INFO - [Model_2_1] rate: 18.55
+2023-08-12 17:25:10,360 - INFO - [Model_2_1] rate: 15.821
+2023-08-12 17:25:10,465 - INFO - [Model_2_1] rate: 13.083
+2023-08-12 17:25:10,480 - INFO - [Model_2_1] rate: 33.553
+2023-08-12 17:25:10,607 - INFO - [Model_2_1] rate: 27.394
+2023-08-12 17:25:10,639 - INFO - [Model_2_1] rate: 30.854
+2023-08-12 17:25:10,718 - INFO - [Model_2_1] rate: 25.65
+2023-08-12 17:25:10,807 - INFO - [Model_2_1] rate: 20.637
+2023-08-12 17:25:10,868 - INFO - [Model_2_1] rate: 15.768
+2023-08-12 17:25:11,016 - INFO - [Model_2_1] rate: 12.566
+2023-08-12 17:25:11,147 - INFO - [Model_2_1] rate: 9.588
+2023-08-12 17:25:11,225 - INFO - [Model_2_1] rate: 10.734
+2023-08-12 17:25:11,256 - INFO - [Model_2_1] rate: 16.014
+2023-08-12 17:25:11,384 - INFO - [Model_2_1] rate: 14.029
+2023-08-12 17:25:11,426 - INFO - [Model_2_1] rate: 18.805
+2023-08-12 17:25:11,533 - INFO - [Model_2_1] rate: 16.262
+2023-08-12 17:25:11,589 - INFO - [Model_2_1] rate: 17.279
+2023-08-12 17:25:11,668 - INFO - [Model_2_1] rate: 15.101
+2023-08-12 17:25:11,761 - INFO - [Model_2_1] rate: 13.786
+2023-08-12 17:25:11,809 - INFO - [Model_2_1] rate: 15.053
+2023-08-12 17:25:11,953 - INFO - [Model_2_1] rate: 12.62
+2023-08-12 17:25:11,966 - INFO - [Model_2_1] rate: 44.917
+2023-08-12 17:25:12,171 - INFO - [Model_2_1] rate: 36.182
+2023-08-12 17:25:12,278 - INFO - [Model_2_1] rate: 28.267
+2023-08-12 17:25:12,338 - INFO - [Model_2_3] frame_filename: output_frames_video_5/frame_269.jpg, and car_frames_list: 34
+2023-08-12 17:25:12,369 - INFO - [Model_2_1] rate: 22.565
+2023-08-12 17:25:12,390 - INFO - [Model_2_1] rate: 22.953
+2023-08-12 17:25:12,515 - INFO - [Model_2_1] rate: 14.498
+2023-08-12 17:25:12,706 - INFO - [Model_2_1] rate: 12.036
+2023-08-12 17:25:12,757 - INFO - [Model_2_1] rate: 14.002
+2023-08-12 17:25:12,920 - INFO - [Model_2_1] rate: 11.09
+2023-08-12 17:25:12,943 - INFO - [Model_2_1] rate: 24.222
+2023-08-12 17:25:13,088 - INFO - [Model_2_1] rate: 20.406
+2023-08-12 17:25:13,172 - INFO - [Model_2_1] rate: 18.931
+2023-08-12 17:25:13,247 - INFO - [Model_2_1] rate: 16.32
+2023-08-12 17:25:13,359 - INFO - [Model_2_1] rate: 13.294
+2023-08-12 17:25:13,495 - INFO - [Model_2_1] rate: 9.432
+2023-08-12 17:25:13,550 - INFO - [Model_2_1] rate: 15.038
+2023-08-12 17:25:13,750 - INFO - [Model_2_1] rate: 12.077
+2023-08-12 17:25:13,779 - INFO - [Model_2_1] rate: 17.529
+2023-08-12 17:25:13,889 - INFO - [Model_2_2] frame_filename: output_frames_video_6/frame_209.jpg, and car_frames_list: 36
+2023-08-12 17:25:13,908 - INFO - [Model_2_1] rate: 15.154
+2023-08-12 17:25:14,092 - INFO - [Model_2_1] rate: 11.95
+2023-08-12 17:25:14,117 - INFO - [Model_2_1] rate: 23.678
+2023-08-12 17:25:14,222 - INFO - [Model_2_1] rate: 20.334
+2023-08-12 17:25:14,284 - INFO - [Model_2_1] rate: 19.483
+2023-08-12 17:25:14,345 - INFO - [Model_2_1] rate: 18.611
+2023-08-12 17:25:14,471 - INFO - [Model_2_1] rate: 15.351
+2023-08-12 17:25:14,498 - INFO - [Model_2_1] rate: 15.321
+2023-08-12 17:25:14,605 - INFO - [Model_2_1] rate: 13.659
+2023-08-12 17:25:14,619 - INFO - [Model_2_1] rate: 38.738
+2023-08-12 17:25:14,640 - INFO - [Model_2_1] frame_filename: output_frames_video_6/frame_214.jpg, and car_frames_list: 37
+2023-08-12 17:25:14,731 - INFO - [Model_2_1] rate: 31.999
+2023-08-12 17:25:14,844 - INFO - [Model_2_1] rate: 26.129
+2023-08-12 17:25:14,890 - INFO - [Model_2_1] rate: 22.655
+2023-08-12 17:25:15,021 - INFO - [Model_2_1] rate: 16.205
+2023-08-12 17:25:15,230 - INFO - [Model_2_1] rate: 9.08
+2023-08-12 17:25:15,267 - INFO - [Model_2_1] rate: 12.508
+2023-08-12 17:25:15,394 - INFO - [Model_2_1] rate: 11.085
+2023-08-12 17:25:15,418 - INFO - [Model_2_1] rate: 24.306
+2023-08-12 17:25:15,551 - INFO - [Model_2_1] rate: 20.656
+2023-08-12 17:25:15,618 - INFO - [Model_2_1] rate: 20.218
+2023-08-12 17:25:15,622 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 5, and last_car_frame: output_frames_video_5/frame_301.jpg
+2023-08-12 17:25:15,625 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 5, and last_car_frame: output_frames_video_5/frame_301.jpg
+2023-08-12 17:25:15,628 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 5, and last_car_frame: output_frames_video_5/frame_301.jpg
+2023-08-12 17:25:15,631 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 5, and last_car_frame: output_frames_video_5/frame_301.jpg
+2023-08-12 17:25:15,633 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 5, and last_car_frame: output_frames_video_5/frame_301.jpg
+2023-08-12 17:25:15,634 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 5, and last_car_frame: output_frames_video_5/frame_301.jpg
+2023-08-12 17:25:15,636 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 5, and last_car_frame: output_frames_video_5/frame_301.jpg
+2023-08-12 17:25:15,638 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 5, and last_car_frame: output_frames_video_5/frame_301.jpg
+2023-08-12 17:25:15,644 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 5, and last_car_frame: output_frames_video_5/frame_301.jpg
+2023-08-12 17:25:15,648 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 5, and last_car_frame: output_frames_video_5/frame_301.jpg
+2023-08-12 17:25:15,655 - INFO - [Model_2_1] rate: 20.378
+2023-08-12 17:25:15,791 - INFO - [Model_2_1] rate: 15.853
+2023-08-12 17:25:15,814 - INFO - [Model_2_1] rate: 25.188
+2023-08-12 17:25:15,958 - INFO - [Model_2_1] rate: 20.773
+2023-08-12 17:25:16,112 - INFO - [Model_2_1] rate: 16.125
+2023-08-12 17:25:16,139 - INFO - [Model_2_1] rate: 25.3
+2023-08-12 17:25:16,264 - INFO - [Model_2_1] rate: 20.254
+2023-08-12 17:25:16,397 - INFO - [Model_2_1] rate: 15.221
+2023-08-12 17:25:16,567 - INFO - [Model_2_1] rate: 12.084
+2023-08-12 17:25:16,696 - INFO - [Model_2_1] rate: 9.743
+2023-08-12 17:25:16,885 - INFO - [Model_2_1] rate: 6.527
+2023-08-12 17:25:16,975 - INFO - [Model_2_1] rate: 7.875
+2023-08-12 17:25:16,986 - INFO - [Model_2_1] rate: 40.746
+2023-08-12 17:25:17,119 - INFO - [Model_2_1] rate: 34.246
+2023-08-12 17:25:17,315 - INFO - [Model_2_1] rate: 26.753
+2023-08-12 17:25:17,491 - INFO - [Model_2_1] rate: 19.65
+2023-08-12 17:25:17,565 - INFO - [Model_2_3] frame_filename: output_frames_video_6/frame_231.jpg, and car_frames_list: 40
+2023-08-12 17:25:17,597 - INFO - [Model_2_1] rate: 13.781
+2023-08-12 17:25:17,761 - INFO - [Model_2_1] rate: 6.903
+2023-08-12 17:25:17,887 - INFO - [Model_2_1] rate: 7.237
+2023-08-12 17:25:18,005 - INFO - [Model_2_1] rate: 7.726
+2023-08-12 17:25:18,031 - INFO - [Model_2_1] rate: 19.112
+2023-08-12 17:25:18,136 - INFO - [Model_2_1] rate: 17.394
+2023-08-12 17:25:18,243 - INFO - [Model_2_1] rate: 15.673
+2023-08-12 17:25:18,367 - INFO - [Model_2_1] rate: 13.186
+2023-08-12 17:25:18,524 - INFO - [Model_2_1] rate: 10.179
+2023-08-12 17:25:18,676 - INFO - [Model_2_1] rate: 7.36
+2023-08-12 17:25:18,801 - INFO - [Model_2_1] rate: 7.402
+2023-08-12 17:25:18,811 - INFO - [Model_2_1] rate: 45.431
+2023-08-12 17:25:18,933 - INFO - [Model_2_2] frame_filename: output_frames_video_6/frame_239.jpg, and car_frames_list: 40
+2023-08-12 17:25:19,004 - INFO - [Model_2_1] rate: 37.112
+2023-08-12 17:25:19,028 - INFO - [Model_2_1] rate: 40.689
+2023-08-12 17:25:19,115 - INFO - [Model_2_1] rate: 32.361
+2023-08-12 17:25:19,253 - INFO - [Model_2_1] rate: 22.389
+2023-08-12 17:25:19,453 - INFO - [Model_2_1] rate: 11.62
+2023-08-12 17:25:19,595 - INFO - [Model_2_1] rate: 9.377
+2023-08-12 17:25:19,678 - INFO - [Model_2_1] frame_filename: output_frames_video_5/frame_301.jpg, and car_frames_list: 38
+2023-08-12 17:25:19,789 - INFO - [Model_2_1] rate: 6.405
+2023-08-12 17:25:19,888 - INFO - [Model_2_1] rate: 7.121
+2023-08-12 17:25:20,007 - INFO - [Model_2_1] rate: 7.612
+2023-08-12 17:25:20,041 - INFO - [Model_2_1] rate: 15.658
+2023-08-12 17:25:20,175 - INFO - [Model_2_1] rate: 14.048
+2023-08-12 17:25:20,317 - INFO - [Model_2_1] rate: 12.364
+2023-08-12 17:25:20,373 - INFO - [Model_2_1] rate: 13.644
+2023-08-12 17:25:20,438 - INFO - [Model_2_1] rate: 14.135
+2023-08-12 17:25:20,546 - INFO - [Model_2_1] rate: 11.965
+2023-08-12 17:25:20,623 - INFO - [Model_2_1] rate: 12.807
+2023-08-12 17:25:20,791 - INFO - [Model_2_1] rate: 10.619
+2023-08-12 17:25:20,832 - INFO - [Model_2_1] rate: 14.289
+2023-08-12 17:25:20,942 - INFO - [Model_2_1] rate: 12.896
+2023-08-12 17:25:21,070 - INFO - [Model_2_1] rate: 11.405
+2023-08-12 17:25:21,118 - INFO - [Model_2_1] rate: 14.091
+2023-08-12 17:25:21,211 - INFO - [Model_2_1] rate: 13.308
+2023-08-12 17:25:21,367 - INFO - [Model_2_1] rate: 10.707
+2023-08-12 17:25:21,508 - INFO - [Model_2_1] rate: 9.44
+2023-08-12 17:25:21,674 - INFO - [Model_2_1] rate: 7.959
+2023-08-12 17:25:21,681 - INFO - [Model_2_1] rate: 57.808
+2023-08-12 17:25:21,788 - INFO - [Model_2_1] rate: 48.249
+2023-08-12 17:25:21,879 - INFO - [Model_2_1] rate: 39.429
+2023-08-12 17:25:21,889 - INFO - [Model_2_1] rate: 53.938
+2023-08-12 17:25:21,983 - INFO - [Model_2_1] rate: 39.651
+2023-08-12 17:25:21,990 - INFO - [Model_2_1] rate: 63.833
+2023-08-12 17:25:22,097 - INFO - [Model_2_1] rate: 50.883
+2023-08-12 17:25:22,213 - INFO - [Model_2_1] rate: 37.715
+2023-08-12 17:25:22,316 - INFO - [Model_2_1] rate: 25.089
+2023-08-12 17:25:22,328 - INFO - [Model_2_1] rate: 44.275
+2023-08-12 17:25:22,425 - INFO - [Model_2_1] rate: 31.469
+2023-08-12 17:25:22,448 - INFO - [Model_2_1] rate: 34.702
+2023-08-12 17:25:22,515 - INFO - [Model_2_1] rate: 29.575
+2023-08-12 17:25:22,549 - INFO - [Model_2_1] rate: 28.207
+2023-08-12 17:25:22,631 - INFO - [Model_2_1] rate: 20.127
+2023-08-12 17:25:22,675 - INFO - [Model_2_1] rate: 20.962
+2023-08-12 17:25:22,739 - INFO - [Model_2_3] frame_filename: output_frames_video_6/frame_268.jpg, and car_frames_list: 42
+2023-08-12 17:25:22,762 - INFO - [Model_2_1] rate: 17.167
+2023-08-12 17:25:22,790 - INFO - [Model_2_1] rate: 22.96
+2023-08-12 17:25:22,851 - INFO - [Model_2_1] rate: 21.049
+2023-08-12 17:25:22,911 - INFO - [Model_2_1] rate: 20.104
+2023-08-12 17:25:22,970 - INFO - [Model_2_1] rate: 18.86
+2023-08-12 17:25:23,047 - INFO - [Model_2_1] rate: 17.334
+2023-08-12 17:25:23,096 - INFO - [Model_2_1] rate: 16.214
+2023-08-12 17:25:23,169 - INFO - [Model_2_1] rate: 15.507
+2023-08-12 17:25:23,227 - INFO - [Model_2_1] rate: 15.759
+2023-08-12 17:25:23,285 - INFO - [Model_2_1] rate: 16.395
+2023-08-12 17:25:23,344 - INFO - [Model_2_1] rate: 16.524
+2023-08-12 17:25:23,400 - INFO - [Model_2_1] rate: 17.392
+2023-08-12 17:25:23,503 - INFO - [Model_2_1] rate: 15.985
+2023-08-12 17:25:23,534 - INFO - [Model_2_1] rate: 16.625
+2023-08-12 17:25:23,612 - INFO - [Model_2_1] rate: 15.382
+2023-08-12 17:25:23,646 - INFO - [Model_2_1] rate: 19.637
+2023-08-12 17:25:23,730 - INFO - [Model_2_1] rate: 17.418
+2023-08-12 17:25:23,761 - INFO - [Model_2_1] rate: 22.486
+2023-08-12 17:25:23,891 - INFO - [Model_2_1] rate: 18.126
+2023-08-12 17:25:24,018 - INFO - [Model_2_1] rate: 14.541
+2023-08-12 17:25:24,110 - INFO - [Model_2_1] rate: 12.315
+2023-08-12 17:25:24,114 - INFO - [Model_2_2] frame_filename: output_frames_video_6/frame_281.jpg, and car_frames_list: 48
+2023-08-12 17:25:24,134 - INFO - [Model_2_1] rate: 23.781
+2023-08-12 17:25:24,246 - INFO - [Model_2_1] rate: 19.652
+2023-08-12 17:25:24,387 - INFO - [Model_2_1] rate: 16.424
+2023-08-12 17:25:24,504 - INFO - [Model_2_1] rate: 13.658
+2023-08-12 17:25:24,629 - INFO - [Model_2_1] rate: 10.729
+2023-08-12 17:25:24,744 - INFO - [Model_2_1] rate: 8.209
+2023-08-12 17:25:24,753 - INFO - [Model_2_1] rate: 47.775
+2023-08-12 17:25:24,836 - INFO - [Model_2_1] rate: 41.151
+2023-08-12 17:25:24,846 - INFO - [Model_2_1] frame_filename: output_frames_video_7/frame_40.jpg, and car_frames_list: 47
+2023-08-12 17:25:24,932 - INFO - [Model_2_1] rate: 33.794
+2023-08-12 17:25:25,025 - INFO - [Model_2_1] rate: 26.232
+2023-08-12 17:25:25,085 - INFO - [Model_2_1] rate: 20.575
+2023-08-12 17:25:25,128 - INFO - [Model_2_1] rate: 16.934
+2023-08-12 17:25:25,247 - INFO - [Model_2_1] rate: 14.757
+2023-08-12 17:25:25,351 - INFO - [Model_2_1] rate: 13.228
+2023-08-12 17:25:25,482 - INFO - [Model_2_1] rate: 11.186
+2023-08-12 17:25:25,600 - INFO - [Model_2_1] rate: 9.492
+2023-08-12 17:25:25,715 - INFO - [Model_2_1] rate: 8.568
+2023-08-12 17:25:25,847 - INFO - [Model_2_1] rate: 8.157
+2023-08-12 17:25:25,946 - INFO - [Model_2_1] rate: 8.937
+2023-08-12 17:25:25,975 - INFO - [Model_2_1] rate: 16.105
+2023-08-12 17:25:26,051 - INFO - [Model_2_1] rate: 16.407
+2023-08-12 17:25:26,082 - INFO - [Model_2_1] rate: 21.655
+2023-08-12 17:25:26,181 - INFO - [Model_2_1] rate: 18.745
+2023-08-12 17:25:26,198 - INFO - [Model_2_1] rate: 36.937
+2023-08-12 17:25:26,296 - INFO - [Model_2_1] rate: 29.756
+2023-08-12 17:25:26,309 - INFO - [Model_2_1] rate: 48.8
+2023-08-12 17:25:26,426 - INFO - [Model_2_1] rate: 37.851
+2023-08-12 17:25:26,536 - INFO - [Model_2_1] rate: 28.419
+2023-08-12 17:25:26,650 - INFO - [Model_2_1] rate: 18.975
+2023-08-12 17:25:26,763 - INFO - [Model_2_1] rate: 13.859
+2023-08-12 17:25:26,874 - INFO - [Model_2_1] rate: 8.911
+2023-08-12 17:25:26,989 - INFO - [Model_2_1] rate: 8.863
+2023-08-12 17:25:27,094 - INFO - [Model_2_1] rate: 9.051
+2023-08-12 17:25:27,220 - INFO - [Model_2_1] rate: 8.682
+2023-08-12 17:25:27,300 - INFO - [Model_2_1] rate: 9.961
+2023-08-12 17:25:27,306 - INFO - [Model_2_1] rate: 72.951
+2023-08-12 17:25:27,433 - INFO - [Model_2_1] rate: 59.772
+2023-08-12 17:25:27,550 - INFO - [Model_2_1] rate: 46.842
+2023-08-12 17:25:27,633 - INFO - [Model_2_1] rate: 35.094
+2023-08-12 17:25:27,654 - INFO - [Model_2_1] rate: 37.947
+2023-08-12 17:25:27,747 - INFO - [Model_2_1] rate: 22.571
+2023-08-12 17:25:27,850 - INFO - [Model_2_1] rate: 19.483
+2023-08-12 17:25:27,988 - INFO - [Model_2_1] rate: 15.442
+2023-08-12 17:25:28,067 - INFO - [Model_2_3] frame_filename: output_frames_video_6/frame_307.jpg, and car_frames_list: 53
+2023-08-12 17:25:28,075 - INFO - [Model_2_1] rate: 12.837
+2023-08-12 17:25:28,224 - INFO - [Model_2_1] rate: 8.732
+2023-08-12 17:25:28,346 - INFO - [Model_2_1] rate: 8.537
+2023-08-12 17:25:28,353 - INFO - [Model_2_1] rate: 31.992
+2023-08-12 17:25:28,454 - INFO - [Model_2_1] rate: 27.838
+2023-08-12 17:25:28,480 - INFO - [Model_2_1] rate: 32.583
+2023-08-12 17:25:28,618 - INFO - [Model_2_1] rate: 25.508
+2023-08-12 17:25:28,751 - INFO - [Model_2_1] rate: 18.56
+2023-08-12 17:25:28,872 - INFO - [Model_2_1] rate: 11.82
+2023-08-12 17:25:29,001 - INFO - [Model_2_1] rate: 9.729
+2023-08-12 17:25:29,015 - INFO - [Model_2_1] rate: 31.682
+2023-08-12 17:25:29,119 - INFO - [Model_2_1] rate: 27.623
+2023-08-12 17:25:29,235 - INFO - [Model_2_1] rate: 22.892
+2023-08-12 17:25:29,323 - INFO - [Model_2_2] frame_filename: output_frames_video_7/frame_71.jpg, and car_frames_list: 55
+2023-08-12 17:25:29,352 - INFO - [Model_2_1] rate: 18.153
+2023-08-12 17:25:29,452 - INFO - [Model_2_1] rate: 14.002
+2023-08-12 17:25:29,558 - INFO - [Model_2_1] rate: 9.269
+2023-08-12 17:25:29,582 - INFO - [Model_2_1] rate: 25.53
+2023-08-12 17:25:29,710 - INFO - [Model_2_1] rate: 21.774
+2023-08-12 17:25:29,824 - INFO - [Model_2_1] rate: 18.435
+2023-08-12 17:25:29,971 - INFO - [Model_2_1] rate: 14.423
+2023-08-12 17:25:29,978 - INFO - [Model_2_1] frame_filename: output_frames_video_6/frame_323.jpg, and car_frames_list: 59
+2023-08-12 17:25:30,107 - INFO - [Model_2_1] rate: 10.882
+2023-08-12 17:25:30,238 - INFO - [Model_2_1] rate: 7.531
+2023-08-12 17:25:30,342 - INFO - [Model_2_1] rate: 8.172
+2023-08-12 17:25:30,363 - INFO - [Model_2_1] rate: 21.645
+2023-08-12 17:25:30,480 - INFO - [Model_2_1] rate: 19.216
+2023-08-12 17:25:30,498 - INFO - [Model_2_1] rate: 32.034
+2023-08-12 17:25:30,602 - INFO - [Model_2_1] rate: 26.613
+2023-08-12 17:25:30,609 - INFO - [Model_2_1] rate: 65.117
+2023-08-12 17:25:30,720 - INFO - [Model_2_1] rate: 50.571
+2023-08-12 17:25:30,813 - INFO - [Model_2_1] rate: 39.214
+2023-08-12 17:25:30,838 - INFO - [Model_2_1] rate: 37.599
+2023-08-12 17:25:30,905 - INFO - [Model_2_1] rate: 28.516
+2023-08-12 17:25:30,926 - INFO - [Model_2_1] rate: 29.578
+2023-08-12 17:25:31,021 - INFO - [Model_2_1] rate: 25.029
+2023-08-12 17:25:31,027 - INFO - [Model_2_1] rate: 62.811
+2023-08-12 17:25:31,142 - INFO - [Model_2_1] rate: 49.002
+2023-08-12 17:25:31,177 - INFO - [Model_2_1] rate: 44.641
+2023-08-12 17:25:31,288 - INFO - [Model_2_1] rate: 32.223
+2023-08-12 17:25:31,380 - INFO - [Model_2_1] rate: 22.366
+2023-08-12 17:25:31,413 - INFO - [Model_2_1] rate: 19.686
+2023-08-12 17:25:31,520 - INFO - [Model_2_1] rate: 16.829
+2023-08-12 17:25:31,597 - INFO - [Model_2_1] rate: 14.964
+2023-08-12 17:25:31,621 - INFO - [Model_2_1] rate: 25.411
+2023-08-12 17:25:31,704 - INFO - [Model_2_1] rate: 22.014
+2023-08-12 17:25:31,721 - INFO - [Model_2_1] rate: 36.248
+2023-08-12 17:25:31,822 - INFO - [Model_2_1] rate: 29.884
+2023-08-12 17:25:31,917 - INFO - [Model_2_1] rate: 23.734
+2023-08-12 17:25:31,925 - INFO - [Model_2_1] rate: 51.868
+2023-08-12 17:25:32,044 - INFO - [Model_2_1] rate: 40.69
+2023-08-12 17:25:32,194 - INFO - [Model_2_1] rate: 29.145
+2023-08-12 17:25:32,331 - INFO - [Model_2_1] rate: 21.667
+2023-08-12 17:25:32,444 - INFO - [Model_2_1] rate: 14.924
+2023-08-12 17:25:32,552 - INFO - [Model_2_1] rate: 8.346
+2023-08-12 17:25:32,614 - INFO - [Model_2_1] rate: 10.987
+2023-08-12 17:25:32,659 - INFO - [Model_2_1] rate: 15.363
+2023-08-12 17:25:32,728 - INFO - [Model_2_1] rate: 15.911
+2023-08-12 17:25:32,755 - INFO - [Model_2_1] rate: 23.455
+2023-08-12 17:25:32,838 - INFO - [Model_2_1] rate: 20.792
+2023-08-12 17:25:32,898 - INFO - [Model_2_1] rate: 19.626
+2023-08-12 17:25:33,030 - INFO - [Model_2_1] rate: 15.293
+2023-08-12 17:25:33,081 - INFO - [Model_2_1] rate: 15.841
+2023-08-12 17:25:33,140 - INFO - [Model_2_1] rate: 15.439
+2023-08-12 17:25:33,195 - INFO - [Model_2_1] rate: 16.59
+2023-08-12 17:25:33,294 - INFO - [Model_2_1] rate: 14.712
+2023-08-12 17:25:33,300 - INFO - [Model_2_3] frame_filename: output_frames_video_7/frame_101.jpg, and car_frames_list: 67
+2023-08-12 17:25:33,313 - INFO - [Model_2_1] rate: 26.836
+2023-08-12 17:25:33,437 - INFO - [Model_2_1] rate: 21.859
+2023-08-12 17:25:33,558 - INFO - [Model_2_1] rate: 17.632
+2023-08-12 17:25:33,667 - INFO - [Model_2_1] rate: 14.395
+2023-08-12 17:25:33,776 - INFO - [Model_2_1] rate: 11.639
+2023-08-12 17:25:33,921 - INFO - [Model_2_1] rate: 8.204
+2023-08-12 17:25:33,931 - INFO - [Model_2_1] rate: 38.249
+2023-08-12 17:25:34,022 - INFO - [Model_2_1] rate: 33.14
+2023-08-12 17:25:34,068 - INFO - [Model_2_1] rate: 31.734
+2023-08-12 17:25:34,149 - INFO - [Model_2_1] rate: 25.988
+2023-08-12 17:25:34,238 - INFO - [Model_2_1] rate: 19.574
+2023-08-12 17:25:34,376 - INFO - [Model_2_1] rate: 12.305
+2023-08-12 17:25:34,448 - INFO - [Model_2_2] frame_filename: output_frames_video_6/frame_354.jpg, and car_frames_list: 65
+2023-08-12 17:25:34,464 - INFO - [Model_2_1] rate: 10.66
+2023-08-12 17:25:34,567 - INFO - [Model_2_1] rate: 9.672
+2023-08-12 17:25:34,720 - INFO - [Model_2_1] rate: 8.568
+2023-08-12 17:25:34,850 - INFO - [Model_2_1] rate: 7.941
+2023-08-12 17:25:34,946 - INFO - [Model_2_1] rate: 8.61
+2023-08-12 17:25:35,083 - INFO - [Model_2_1] rate: 8.25
+2023-08-12 17:25:35,176 - INFO - [Model_2_1] frame_filename: output_frames_video_7/frame_112.jpg, and car_frames_list: 64
+2023-08-12 17:25:35,197 - INFO - [Model_2_1] rate: 8.338
+2023-08-12 17:25:35,322 - INFO - [Model_2_1] rate: 8.323
+2023-08-12 17:25:35,438 - INFO - [Model_2_1] rate: 8.371
+2023-08-12 17:25:35,446 - INFO - [Model_2_1] rate: 51.74
+2023-08-12 17:25:35,541 - INFO - [Model_2_1] rate: 43.881
+2023-08-12 17:25:35,679 - INFO - [Model_2_1] rate: 34.629
+2023-08-12 17:25:35,777 - INFO - [Model_2_1] rate: 26.544
+2023-08-12 17:25:35,882 - INFO - [Model_2_1] rate: 18.131
+2023-08-12 17:25:35,990 - INFO - [Model_2_1] rate: 9.393
+2023-08-12 17:25:36,014 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,018 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,023 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,026 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,029 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,033 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,036 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,038 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,040 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,043 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,045 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,047 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,049 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,051 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,054 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,062 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,063 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,065 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,066 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,068 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,069 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,071 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,073 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,075 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,076 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,078 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,080 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,081 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,084 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,086 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,091 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,093 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,094 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,096 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,097 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,099 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,100 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,108 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,110 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,111 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,112 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,114 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,127 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,133 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,136 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,156 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,160 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,169 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,173 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,177 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,181 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,185 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,200 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,205 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,210 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,213 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,216 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,218 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,222 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,225 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,228 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,230 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,233 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,235 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,238 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,240 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,243 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,263 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,264 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,265 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,266 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,268 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,269 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,270 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,271 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,272 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,273 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,285 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,289 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,294 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,297 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,303 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,308 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,311 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,314 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,317 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,321 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,323 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,326 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,328 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,332 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,335 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,339 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,342 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,345 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,349 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,352 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,354 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,357 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,359 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,362 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,365 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,367 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,376 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,379 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,382 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,385 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,388 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,392 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,395 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,397 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,399 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,401 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,409 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,417 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,419 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,420 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,421 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,422 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,423 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,424 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,425 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,426 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,427 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,428 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,429 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,430 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,431 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,433 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,435 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,436 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,437 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,439 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,441 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,442 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,446 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,448 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,450 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,451 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,452 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,454 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,455 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,456 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,457 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,458 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,459 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,460 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,461 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,462 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,463 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,464 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,465 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,466 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,468 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,469 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,470 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,471 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,472 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,474 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,475 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,476 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,477 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,478 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,480 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 7, and last_car_frame: output_frames_video_7/frame_162.jpg
+2023-08-12 17:25:36,484 - INFO - [Model_2_1] rate: 6.925
+2023-08-12 17:25:37,391 - INFO - [Model_2_1] rate: 4.729
+2023-08-12 17:25:37,500 - INFO - [Model_2_1] rate: 5.607
+2023-08-12 17:25:37,627 - INFO - [Model_2_1] rate: 6.152
+2023-08-12 17:25:37,759 - INFO - [Model_2_1] rate: 6.741
+2023-08-12 17:25:37,875 - INFO - [Model_2_1] rate: 7.751
+2023-08-12 17:25:38,049 - INFO - [Model_2_1] rate: 7.384
+2023-08-12 17:25:38,223 - INFO - [Model_2_1] rate: 6.705
+2023-08-12 17:25:38,327 - INFO - [Model_2_3] frame_filename: output_frames_video_6/frame_382.jpg, and car_frames_list: 45
+2023-08-12 17:25:38,341 - INFO - [Model_2_1] rate: 7.154
+2023-08-12 17:25:38,527 - INFO - [Model_2_1] rate: 6.539
+2023-08-12 17:25:39,129 - INFO - [Model_2_1] rate: 4.832
+2023-08-12 17:25:39,222 - INFO - [Model_2_1] rate: 6.602
+2023-08-12 17:25:39,323 - INFO - [Model_2_1] rate: 7.768
+2023-08-12 17:25:39,434 - INFO - [Model_2_1] rate: 8.378
+2023-08-12 17:25:39,506 - INFO - [Model_2_1] rate: 10.501
+2023-08-12 17:25:39,534 - INFO - [Model_2_2] frame_filename: output_frames_video_7/frame_145.jpg, and car_frames_list: 38
+2023-08-12 17:25:39,597 - INFO - [Model_2_1] rate: 11.206
+2023-08-12 17:25:39,789 - INFO - [Model_2_1] rate: 9.298
+2023-08-12 17:25:39,907 - INFO - [Model_2_1] rate: 8.885
+2023-08-12 17:25:40,225 - INFO - [Model_2_1] frame_filename: output_frames_video_7/frame_152.jpg, and car_frames_list: 33
+2023-08-12 17:25:40,275 - INFO - [Model_2_1] rate: 6.616
+2023-08-12 17:25:40,423 - INFO - [Model_2_1] rate: 6.109
+2023-08-12 17:25:41,127 - INFO - [Model_2_1] rate: 4.297
+2023-08-12 17:25:41,386 - INFO - [Model_2_1] rate: 3.945
+2023-08-12 17:25:41,639 - INFO - [Model_2_1] rate: 3.711
+2023-08-12 17:25:41,771 - INFO - [Model_2_1] rate: 4.982
+2023-08-12 17:25:41,874 - INFO - [Model_2_1] rate: 6.675
+2023-08-12 17:25:41,979 - INFO - [Model_2_1] rate: 8.085
+2023-08-12 17:25:43,146 - INFO - [Model_2_1] rate: 6.057
+2023-08-12 17:25:43,246 - INFO - [Model_2_1] rate: 7.275
+2023-08-12 17:25:43,332 - INFO - [Model_2_3] frame_filename: output_frames_video_6/frame_462.jpg, and car_frames_list: 6
+2023-08-12 17:25:43,501 - INFO - [Model_2_1] rate: 6.068
+2023-08-12 17:25:43,603 - INFO - [Model_2_1] rate: 7.049
+2023-08-12 17:25:44,161 - INFO - [Model_2_1] rate: 5.375
+2023-08-12 17:25:44,250 - INFO - [Model_2_1] rate: 7.403
+2023-08-12 17:25:44,364 - INFO - [Model_2_1] rate: 7.848
+2023-08-12 17:25:44,481 - INFO - [Model_2_1] rate: 8.338
+2023-08-12 17:25:44,569 - INFO - [Model_2_1] rate: 9.449
+2023-08-12 17:25:45,136 - INFO - [Model_2_1] rate: 7.25
+2023-08-12 17:25:45,140 - INFO - [Model_2_2] frame_filename: output_frames_video_6/frame_496.jpg, and car_frames_list: 0
+2023-08-12 17:25:45,384 - INFO - [Model_2_1] rate: 5.812
+2023-08-12 17:25:45,462 - INFO - [Model_2_1] rate: 7.792
+2023-08-12 17:25:45,556 - INFO - [Model_2_1] rate: 8.75
+2023-08-12 17:25:45,562 - INFO - [Model_2_1] frame_filename: output_frames_video_6/frame_501.jpg, and car_frames_list: 0
+2023-08-12 17:25:45,704 - INFO - [Model_2_1] rate: 8.304
+2023-08-12 17:25:45,779 - INFO - [Model_2_1] rate: 10.301
+2023-08-12 17:25:45,856 - INFO - [Model_2_1] rate: 11.494
+2023-08-12 17:25:46,213 - INFO - [Model_2_1] rate: 8.665
+2023-08-12 17:25:46,360 - INFO - [Model_2_1] rate: 7.839
+2023-08-12 17:25:46,438 - INFO - [Model_2_1] rate: 9.272
+2023-08-12 17:25:46,722 - INFO - [Model_2_1] rate: 7.199
+2023-08-12 17:25:47,213 - INFO - [Model_2_1] rate: 5.283
+2023-08-12 17:25:47,580 - INFO - [Model_2_1] rate: 4.315
+2023-08-12 17:25:47,731 - INFO - [Model_2_1] rate: 4.651
+2023-08-12 17:25:47,879 - INFO - [Model_2_1] rate: 5.058
+2023-08-12 17:25:48,252 - INFO - [Model_2_1] rate: 4.511
+2023-08-12 17:25:48,372 - INFO - [Model_2_1] rate: 5.92
+2023-08-12 17:25:48,379 - INFO - [Model_2_3] frame_filename: output_frames_video_6/frame_534.jpg, and car_frames_list: 0
+2023-08-12 17:25:48,810 - INFO - [Model_2_1] rate: 4.873
+2023-08-12 17:25:48,964 - INFO - [Model_2_1] rate: 5.257
+2023-08-12 17:25:49,056 - INFO - [Model_2_1] rate: 7.113
+2023-08-12 17:25:49,274 - INFO - [Model_2_1] rate: 6.621
+2023-08-12 17:25:49,579 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 8, and last_car_frame: output_frames_video_6/frame_544.jpg
+2023-08-12 17:25:49,579 - INFO - [Model_2_1] rate: 5.517
+2023-08-12 17:25:49,583 - INFO - [Model_2_1] rate: 109.822
+2023-08-12 17:25:49,651 - INFO - [Model_2_1] rate: 91.773
+2023-08-12 17:25:49,732 - INFO - [Model_2_1] rate: 72.63
+2023-08-12 17:25:49,922 - INFO - [Model_2_1] rate: 50.759
+2023-08-12 17:25:50,029 - INFO - [Model_2_1] rate: 30.274
+2023-08-12 17:25:50,290 - INFO - [Model_2_1] rate: 7.519
+2023-08-12 17:25:50,520 - INFO - [Model_2_1] rate: 5.958
+2023-08-12 17:25:50,604 - INFO - [Model_2_1] rate: 7.161
+2023-08-12 17:25:50,615 - INFO - [Model_2_2] frame_filename: output_frames_video_6/frame_557.jpg, and car_frames_list: 0
+2023-08-12 17:25:50,742 - INFO - [Model_2_1] rate: 7.317
+2023-08-12 17:25:50,753 - INFO - [Model_2_1] frame_filename: output_frames_video_6/frame_558.jpg, and car_frames_list: 0
+2023-08-12 17:25:50,820 - INFO - [Model_2_1] rate: 9.261
+2023-08-12 17:25:50,927 - INFO - [Model_2_1] rate: 9.834
+2023-08-12 17:25:51,095 - INFO - [Model_2_1] rate: 8.795
+2023-08-12 17:25:51,190 - INFO - [Model_2_1] rate: 9.164
+2023-08-12 17:25:51,348 - INFO - [Model_2_1] rate: 8.251
+2023-08-12 17:25:51,533 - INFO - [Model_2_1] rate: 7.006
+2023-08-12 17:25:51,690 - INFO - [Model_2_1] rate: 6.594
+2023-08-12 17:25:51,811 - INFO - [Model_2_1] rate: 7.072
+2023-08-12 17:25:51,906 - INFO - [Model_2_1] rate: 8.169
+2023-08-12 17:25:52,050 - INFO - [Model_2_1] rate: 7.993
+2023-08-12 17:25:52,163 - INFO - [Model_2_1] rate: 8.458
+2023-08-12 17:25:52,291 - INFO - [Model_2_1] rate: 8.319
+2023-08-12 17:25:52,408 - INFO - [Model_2_1] rate: 8.327
+2023-08-12 17:25:52,500 - INFO - [Model_2_1] rate: 9.103
+2023-08-12 17:25:52,669 - INFO - [Model_2_1] rate: 8.212
+2023-08-12 17:25:52,762 - INFO - [Model_2_1] rate: 9.053
+2023-08-12 17:25:52,921 - INFO - [Model_2_1] rate: 8.196
+2023-08-12 17:25:53,037 - INFO - [Model_2_1] rate: 8.248
+2023-08-12 17:25:53,129 - INFO - [Model_2_1] rate: 9.025
+2023-08-12 17:25:53,298 - INFO - [Model_2_1] rate: 8.155
+2023-08-12 17:25:53,478 - INFO - [Model_2_1] rate: 7.16
+2023-08-12 17:25:53,481 - INFO - [Model_2_3] frame_filename: output_frames_video_6/frame_581.jpg, and car_frames_list: 0
+2023-08-12 17:25:53,565 - INFO - [Model_2_1] rate: 8.558
+2023-08-12 17:25:53,651 - INFO - [Model_2_1] rate: 9.556
+2023-08-12 17:25:53,734 - INFO - [Model_2_1] rate: 10.631
+2023-08-12 17:25:53,894 - INFO - [Model_2_1] rate: 9.567
+2023-08-12 17:25:54,061 - INFO - [Model_2_1] rate: 8.424
+2023-08-12 17:25:54,135 - INFO - [Model_2_1] rate: 9.736
+2023-08-12 17:25:54,224 - INFO - [Model_2_1] rate: 10.16
+2023-08-12 17:25:54,308 - INFO - [Model_2_1] rate: 10.886
+2023-08-12 17:25:54,400 - INFO - [Model_2_1] rate: 11.238
+2023-08-12 17:25:54,625 - INFO - [Model_2_1] rate: 9.175
+2023-08-12 17:25:54,814 - INFO - [Model_2_1] rate: 7.458
+2023-08-12 17:25:54,893 - INFO - [Model_2_1] rate: 8.738
+2023-08-12 17:25:55,014 - INFO - [Model_2_1] rate: 8.486
+2023-08-12 17:25:55,169 - INFO - [Model_2_1] rate: 7.889
+2023-08-12 17:25:55,261 - INFO - [Model_2_1] rate: 8.988
+2023-08-12 17:25:55,372 - INFO - [Model_2_1] rate: 9.117
+2023-08-12 17:25:55,463 - INFO - [Model_2_1] rate: 9.574
+2023-08-12 17:25:55,581 - INFO - [Model_2_1] rate: 9.39
+2023-08-12 17:25:55,701 - INFO - [Model_2_2] frame_filename: output_frames_video_6/frame_605.jpg, and car_frames_list: 0
+2023-08-12 17:25:55,801 - INFO - [Model_2_1] rate: 7.874
+2023-08-12 17:25:55,898 - INFO - [Model_2_1] rate: 8.356
+2023-08-12 17:25:55,906 - INFO - [Model_2_1] frame_filename: output_frames_video_6/frame_607.jpg, and car_frames_list: 0
+2023-08-12 17:25:55,985 - INFO - [Model_2_1] rate: 9.313
+2023-08-12 17:25:56,372 - INFO - [Model_2_1] rate: 7.138
+2023-08-12 17:25:56,634 - INFO - [Model_2_1] rate: 5.924
+2023-08-12 17:25:56,711 - INFO - [Model_2_1] rate: 8.057
+2023-08-12 17:25:56,787 - INFO - [Model_2_1] rate: 9.728
+2023-08-12 17:25:56,894 - INFO - [Model_2_1] rate: 9.916
+2023-08-12 17:25:56,990 - INFO - [Model_2_1] rate: 10.553
+2023-08-12 17:25:57,078 - INFO - [Model_2_1] rate: 11.018
+2023-08-12 17:25:57,160 - INFO - [Model_2_1] rate: 11.308
+2023-08-12 17:25:57,326 - INFO - [Model_2_1] rate: 9.578
+2023-08-12 17:25:57,405 - INFO - [Model_2_1] rate: 10.392
+2023-08-12 17:25:57,479 - INFO - [Model_2_1] rate: 11.516
+2023-08-12 17:25:57,566 - INFO - [Model_2_1] rate: 11.549
+2023-08-12 17:25:57,866 - INFO - [Model_2_1] rate: 8.939
+2023-08-12 17:25:57,962 - INFO - [Model_2_1] rate: 9.268
+2023-08-12 17:25:58,056 - INFO - [Model_2_1] rate: 9.4
+2023-08-12 17:25:58,144 - INFO - [Model_2_1] rate: 9.962
+2023-08-12 17:25:58,357 - INFO - [Model_2_1] rate: 8.368
+2023-08-12 17:25:58,469 - INFO - [Model_2_1] rate: 8.654
+2023-08-12 17:25:58,474 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 6, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:00,262 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 9, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:00,262 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 9, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:00,263 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 9, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:00,263 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 9, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:00,264 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 9, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:00,264 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 9, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:00,265 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 9, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:00,265 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 9, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:00,266 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 9, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:03,485 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 11, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:03,485 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 11, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:03,485 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 11, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:03,486 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 11, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:03,486 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 11, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:03,486 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 11, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:03,487 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 11, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:03,487 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 11, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:03,487 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 11, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:03,488 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 11, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:21,024 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 12, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:21,024 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 12, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:21,025 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 12, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:21,025 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 12, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:21,026 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 12, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:21,026 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 12, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:21,027 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 12, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:21,027 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 12, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:21,027 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 12, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:21,028 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 12, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:21,028 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 12, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:21,029 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 12, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:26,019 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 10, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:26,019 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 10, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:26,020 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 10, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:26,020 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 10, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:26,021 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 10, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:26,022 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 10, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:37,225 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 14, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:37,226 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 14, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:37,226 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 14, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:37,227 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 14, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:37,227 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 14, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:37,228 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 14, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:50,050 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 15, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:50,051 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: 15, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:51,809 - WARNING - [Model_2_1] 'int' object is not subscriptable, and car_frames_list[-1]: -1, and last_car_frame: output_frames_video_6/frame_636.jpg
+2023-08-12 17:26:51,810 - INFO - [Model_2_3] end
+2023-08-12 17:26:51,811 - INFO - [Model_2_2] end
+2023-08-12 17:26:51,819 - INFO - [Model_2_1] end
