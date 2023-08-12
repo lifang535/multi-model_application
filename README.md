@@ -1,9 +1,6 @@
 # multi-model_application
 This is a test of multi-model_application.
 
-# multi-model_app
-This is a test of multi-model_app.
-
 ## 代码逻辑
 
 `'pipeline.py'` 代码共分成六个模块，`Loader` 模块向 `Model_1` 以一定的速率传输视频路径；
