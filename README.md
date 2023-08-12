@@ -20,7 +20,7 @@ This is a test of multi-model_app.
 
 各个模块检测接收上级模块请求的速率，并将结果储存在 `'/multi-model_app/modules/logs_rate'` 文件夹中，运行 `'draw_data.py'` 绘制各模块检测的请求到达速率折线图：
 
-### same time and different video
+### same rate and different video
 ```
 time.sleep(10) # 发送视频的时间间隔相同
 input_video_dir = 'input_videos' # 存储了 15 个不同的视频
@@ -28,19 +28,21 @@ input_video_dir = 'input_videos' # 存储了 15 个不同的视频
 
 ![Image](https://github.com/lifang535/multi-model_application/blob/main/multi-model_application/modules/multi-model_curve_graph.png)
 
-### differ time and same video
+### differ rate and same video
 ```
 sleep_time = [5, 10, 15, 20, 25, 25, 20, 15, 10, 5, 10, 15, 20, 25, 30] # 发送视频的时间间隔不同
 input_video_dir = 'input_videos_2' # 存储了 15 个相同的视频
 ```
 
-### same time and same video
+![Image](https://github.com/lifang535/multi-model_application/blob/main/multi-model_application/modules/differ_rate_and_same_video.png)
+
+### same rate and same video
 ```
 time.sleep(10) # 发送视频的时间间隔相同
 input_video_dir = 'input_videos_2' # 存储了 15 个相同的视频
 ```
 
-
+![Image](https://github.com/lifang535/multi-model_application/blob/main/multi-model_application/modules/same_rate_and_same_video.png)
 
 ## 问题
 
