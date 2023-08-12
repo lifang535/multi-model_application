@@ -17,7 +17,7 @@ This is a test of multi-model_application.
 
 各个模块检测接收上级模块请求的速率，并将结果储存在 `'/multi-model_app/modules/logs_rate'` 文件夹中，运行 `'draw_data.py'` 绘制各模块检测的请求到达速率折线图：
 
-### same rate and different video
+### 1. same rate and different video
 ```
 time.sleep(10) # 发送视频的时间间隔相同
 input_video_dir = 'input_videos' # 存储了 15 个不同的视频
@@ -27,7 +27,7 @@ input_video_dir = 'input_videos' # 存储了 15 个不同的视频
 
 速率较大的位置大致即处理数据量高的视频和视频帧时的位置；后边 `Model_2` 速率为 0，而 `Model_3` 不为 0，说明视频的数据量影响了各模块接收请求的速率
 
-### different rate and same video
+### 2. different rate and same video
 ```
 sleep_time = [5, 10, 15, 20, 25, 25, 20, 15, 10, 5, 10, 15, 20, 25, 30] # 发送视频的时间间隔不同
 input_video_dir = 'input_videos_2' # 存储了 15 个相同的视频
@@ -37,7 +37,7 @@ input_video_dir = 'input_videos_2' # 存储了 15 个相同的视频
 
 前部分 `Model_1` 速率较低时，其它模块部分速率也较低；后部分速率高峰和低谷不明显可能是由于队列阻塞
 
-### same rate and same video
+### 3. same rate and same video
 ```
 time.sleep(10) # 发送视频的时间间隔相同
 input_video_dir = 'input_videos_2' # 存储了 15 个相同的视频
