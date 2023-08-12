@@ -25,6 +25,8 @@ input_video_dir = 'input_videos' # 存储了 15 个不同的视频
 
 ![Image](https://github.com/lifang535/multi-model_application/blob/main/multi-model_application/modules/same_rate_and_different_video.png)
 
+速率较大的位置大致即处理数据量高的视频和视频帧时的位置
+
 ### different rate and same video
 ```
 sleep_time = [5, 10, 15, 20, 25, 25, 20, 15, 10, 5, 10, 15, 20, 25, 30] # 发送视频的时间间隔不同
