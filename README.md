@@ -26,7 +26,7 @@ time.sleep(10) # 发送视频的时间间隔相同
 input_video_dir = 'input_videos' # 存储了 15 个不同的视频
 ```
 
-![Image](https://github.com/lifang535/multi-model_application/blob/main/multi-model_application/modules/multi-model_curve_graph.png)
+![Image](https://github.com/lifang535/multi-model_application/blob/main/multi-model_application/modules/same_rate_and_different_video.png)
 
 ### different rate and same video
 ```
