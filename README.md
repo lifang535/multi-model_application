@@ -44,6 +44,8 @@ input_video_dir = 'input_videos_2' # 存储了 15 个相同的视频
 
 ![Image](https://github.com/lifang535/multi-model_application/blob/main/multi-model_application/modules/same_rate_and_same_video.png)
 
+相较于前两次实验，整体速率较为稳定，说明输入速率和视频不变时，处理速率较为稳定（上下波动是由于同一视频的不同段连续的视频帧数据量不同导致的）
+
 ## 问题
 
 `to_monitor_rate` 应该不用作为进程共享变量，只在 `monitor_rate(self)` 中定义即可，但是调整之后速率计算的误差会变大
