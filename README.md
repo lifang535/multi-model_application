@@ -28,13 +28,13 @@ input_video_dir = 'input_videos' # 存储了 15 个不同的视频
 
 ![Image](https://github.com/lifang535/multi-model_application/blob/main/multi-model_application/modules/multi-model_curve_graph.png)
 
-### differ rate and same video
+### different rate and same video
 ```
 sleep_time = [5, 10, 15, 20, 25, 25, 20, 15, 10, 5, 10, 15, 20, 25, 30] # 发送视频的时间间隔不同
 input_video_dir = 'input_videos_2' # 存储了 15 个相同的视频
 ```
 
-![Image](https://github.com/lifang535/multi-model_application/blob/main/multi-model_application/modules/differ_rate_and_same_video.png)
+![Image](https://github.com/lifang535/multi-model_application/blob/main/multi-model_application/modules/different_rate_and_same_video.png)
 
 ### same rate and same video
 ```
@@ -48,6 +48,6 @@ input_video_dir = 'input_videos_2' # 存储了 15 个相同的视频
 
 `to_monitor_rate` 应该不用作为进程共享变量，只在 `monitor_rate(self)` 中定义即可，但是调整之后速率计算的误差会变大
 
-处理队列阻塞主要发生在 `Model_1`，直接增多数量会造成 cuda 内存不足，考虑调整模型数量比与发送视频速率
+`'different_rate_and_same_video.png'` 中，前方模块速率变化对后方影响不明显的原因可能是队列阻塞，后方速率达到最大值
 
-
+处理队列阻塞主要发生在 `Model_1`，直接增多数量会造成 cuda 内存不足，考虑调整模型数量比与和发送视频速率
