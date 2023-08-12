@@ -16,11 +16,11 @@ This is a test of multi-model_app.
 
 `Model_5` 将处理后的视频帧重组成视频并存储。
 
-![Image](https://github.com/lifang535/multi-model_app/blob/main/multi-model_application/modules/multi-model_structure.png)
+![Image](https://github.com/lifang535/multi-model_application/blob/main/multi-model_application/modules/multi-model_structure.png)
 
 各个模块检测接收上级模块请求的速率，并将结果储存在 `'/multi-model_app/modules/logs_rate'` 文件夹中，运行 `'draw_data.py'` 绘制各模块检测的请求到达速率折线图：
 
-![Image](https://github.com/lifang535/multi-model_app/blob/main/multi-model_application/modules/multi-model_curve_graph.png)
+![Image](https://github.com/lifang535/multi-model_application/blob/main/multi-model_application/modules/multi-model_curve_graph.png)
 
 ## 问题
 
