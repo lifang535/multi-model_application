@@ -5,7 +5,7 @@ This is a test of multi-model_application.
 
 `'pipeline.py'` 代码共分成六个模块，`Loader` 模块向 `Model_1` 以一定的速率传输视频路径；
 
-`Model_1` 加载视频，将视频拆解成视频帧，再对视频帧使用模型 ''hustvl/yolos-tiny'' 处理，将检测出 `'car'` 的视频帧发送给 `Model_2`，将检测出 `'person'` 的视频帧发送给 `Model_3`；
+`Model_1` 加载视频，将视频拆解成视频帧，再对视频帧使用模型 `'hustvl/yolos-tiny'` 处理，将检测出 `'car'` 的视频帧发送给 `Model_2`，将检测出 `'person'` 的视频帧发送给 `Model_3`；
 
 `Model_2` 使用模型 `'facebook/detr-resnet-50'`，`Model_3` 使用模型 `'facebook/detr-resnet-101'`，分别处理各自接收到的视频帧，并将绘图信息（label、score、box...）发送给 `Model_4`；
 
@@ -53,4 +53,4 @@ input_video_dir = 'input_videos_2' # 存储了 15 个相同的视频
 
 `'different_rate_and_same_video.png'` 中，前方模块速率增大对后方影响不明显的原因可能是队列阻塞，后方速率达到最大值
 
-处理队列阻塞主要发生在 `Model_1`，直接增多数量会造成 cuda 内存不足，考虑调整模型数量比与和发送视频速率
+处理队列阻塞主要发生在 `Model_1`，直接增多数量会造成 cuda 内存不足，考虑调整各模块的数量比与发送视频的速率
